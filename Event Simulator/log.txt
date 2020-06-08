@@ -1,0 +1,3761 @@
+SEED :  1
+INIT_TIME :  0
+FIN_TIME :  20000
+ARRIVE_MIN :  10
+ARRIVE_MAX :  20
+QUIT_PROB :  20
+CPU_MIN :  10
+CPU_MAX :  20
+DISK1_MIN :  40
+DISK1_MAX :  60
+DISK2_MIN :  50
+DISK2_MAX :  70
+0     Job 1    arrives
+13    Job 2    arrives
+16    Job 1    finishes at CPU
+28    Job 2    finishes at CPU
+30    Job 3    arrives
+40    Job 3    finishes at CPU
+47    Job 4    arrives
+57    Job 4    finishes at CPU
+63    Job 5    arrives
+72    Job 1    finishes at Disk 2
+74    Job 5    finishes at CPU
+79    Job 6    arrives
+83    Job 3    finishes at Disk 1
+84    Job 1    finishes at CPU
+91    Job 7    arrives
+96    Job 6    finishes at CPU
+107   Job 3    finishes at CPU
+109   Job 8    arrives
+120   Job 7    finishes at CPU
+120   Job 9    arrives
+129   Job 2    finishes at Disk 2
+134   Job 8    finishes at CPU
+135   Job 10   arrives
+138   Job 4    finishes at Disk 1
+147   Job 9    finishes at CPU
+147   Job 11   arrives
+147   Job 9    finishes
+161   Job 12   arrives
+162   Job 2    finishes at CPU
+177   Job 13   arrives
+179   Job 1    finishes at Disk 1
+179   Job 10   finishes at CPU
+179   Job 10   finishes
+185   Job 5    finishes at Disk 2
+191   Job 14   arrives
+196   Job 4    finishes at CPU
+204   Job 15   arrives
+212   Job 11   finishes at CPU
+222   Job 16   arrives
+224   Job 6    finishes at Disk 1
+226   Job 12   finishes at CPU
+238   Job 13   finishes at CPU
+239   Job 3    finishes at Disk 2
+241   Job 17   arrives
+251   Job 18   arrives
+252   Job 1    finishes at CPU
+252   Job 1    finishes
+269   Job 19   arrives
+269   Job 5    finishes at CPU
+280   Job 8    finishes at Disk 1
+281   Job 20   arrives
+285   Job 14   finishes at CPU
+297   Job 21   arrives
+299   Job 15   finishes at CPU
+304   Job 7    finishes at Disk 2
+316   Job 22   arrives
+316   Job 16   finishes at CPU
+320   Job 4    finishes at Disk 1
+331   Job 23   arrives
+333   Job 6    finishes at CPU
+346   Job 24   arrives
+351   Job 3    finishes at CPU
+355   Job 2    finishes at Disk 2
+357   Job 25   arrives
+366   Job 12   finishes at Disk 1
+370   Job 17   finishes at CPU
+375   Job 26   arrives
+385   Job 18   finishes at CPU
+391   Job 27   arrives
+404   Job 19   finishes at CPU
+409   Job 28   arrives
+413   Job 11   finishes at Disk 2
+415   Job 13   finishes at Disk 1
+417   Job 8    finishes at CPU
+419   Job 29   arrives
+428   Job 20   finishes at CPU
+436   Job 30   arrives
+439   Job 21   finishes at CPU
+453   Job 31   arrives
+453   Job 7    finishes at CPU
+462   Job 14   finishes at Disk 1
+464   Job 32   arrives
+467   Job 5    finishes at Disk 2
+468   Job 22   finishes at CPU
+482   Job 33   arrives
+482   Job 4    finishes at CPU
+482   Job 4    finishes
+495   Job 34   arrives
+500   Job 23   finishes at CPU
+500   Job 23   finishes
+511   Job 35   arrives
+518   Job 24   finishes at CPU
+520   Job 16   finishes at Disk 1
+525   Job 15   finishes at Disk 2
+529   Job 36   arrives
+534   Job 2    finishes at CPU
+539   Job 37   arrives
+548   Job 25   finishes at CPU
+549   Job 38   arrives
+561   Job 39   arrives
+563   Job 3    finishes at Disk 1
+567   Job 12   finishes at CPU
+567   Job 12   finishes
+575   Job 40   arrives
+578   Job 6    finishes at Disk 2
+585   Job 26   finishes at CPU
+586   Job 41   arrives
+596   Job 42   arrives
+603   Job 27   finishes at CPU
+603   Job 27   finishes
+607   Job 43   arrives
+614   Job 28   finishes at CPU
+618   Job 18   finishes at Disk 1
+618   Job 44   arrives
+630   Job 11   finishes at CPU
+630   Job 45   arrives
+630   Job 11   finishes
+642   Job 46   arrives
+646   Job 13   finishes at CPU
+647   Job 17   finishes at Disk 2
+656   Job 47   arrives
+656   Job 29   finishes at CPU
+664   Job 8    finishes at Disk 1
+669   Job 30   finishes at CPU
+675   Job 48   arrives
+679   Job 31   finishes at CPU
+688   Job 49   arrives
+695   Job 14   finishes at CPU
+695   Job 14   finishes
+705   Job 21   finishes at Disk 1
+707   Job 50   arrives
+709   Job 19   finishes at Disk 2
+713   Job 32   finishes at CPU
+723   Job 51   arrives
+725   Job 5    finishes at CPU
+739   Job 52   arrives
+744   Job 33   finishes at CPU
+744   Job 33   finishes
+757   Job 53   arrives
+759   Job 20   finishes at Disk 2
+760   Job 22   finishes at Disk 1
+762   Job 34   finishes at CPU
+769   Job 54   arrives
+775   Job 35   finishes at CPU
+781   Job 55   arrives
+792   Job 56   arrives
+794   Job 16   finishes at CPU
+802   Job 2    finishes at Disk 1
+811   Job 57   arrives
+812   Job 15   finishes at CPU
+825   Job 7    finishes at Disk 2
+825   Job 58   arrives
+831   Job 36   finishes at CPU
+835   Job 59   arrives
+841   Job 37   finishes at CPU
+850   Job 60   arrives
+851   Job 38   finishes at CPU
+851   Job 38   finishes
+852   Job 25   finishes at Disk 1
+862   Job 61   arrives
+869   Job 39   finishes at CPU
+872   Job 62   arrives
+876   Job 24   finishes at Disk 2
+884   Job 63   arrives
+885   Job 3    finishes at CPU
+895   Job 40   finishes at CPU
+896   Job 13   finishes at Disk 1
+903   Job 64   arrives
+914   Job 6    finishes at CPU
+918   Job 65   arrives
+925   Job 41   finishes at CPU
+930   Job 26   finishes at Disk 2
+932   Job 66   arrives
+937   Job 42   finishes at CPU
+946   Job 67   arrives
+949   Job 29   finishes at Disk 1
+955   Job 43   finishes at CPU
+965   Job 68   arrives
+973   Job 18   finishes at CPU
+973   Job 18   finishes
+978   Job 69   arrives
+986   Job 28   finishes at Disk 2
+986   Job 44   finishes at CPU
+991   Job 70   arrives
+1004  Job 45   finishes at CPU
+1007  Job 31   finishes at Disk 1
+1010  Job 71   arrives
+1023  Job 46   finishes at CPU
+1023  Job 72   arrives
+1038  Job 73   arrives
+1039  Job 17   finishes at CPU
+1050  Job 30   finishes at Disk 2
+1050  Job 32   finishes at Disk 1
+1054  Job 74   arrives
+1058  Job 47   finishes at CPU
+1064  Job 75   arrives
+1076  Job 8    finishes at CPU
+1080  Job 76   arrives
+1091  Job 35   finishes at Disk 1
+1093  Job 77   arrives
+1095  Job 48   finishes at CPU
+1100  Job 5    finishes at Disk 2
+1106  Job 78   arrives
+1113  Job 49   finishes at CPU
+1121  Job 79   arrives
+1128  Job 21   finishes at CPU
+1138  Job 80   arrives
+1139  Job 16   finishes at Disk 1
+1143  Job 50   finishes at CPU
+1143  Job 50   finishes
+1157  Job 81   arrives
+1161  Job 34   finishes at Disk 2
+1161  Job 19   finishes at CPU
+1168  Job 82   arrives
+1176  Job 51   finishes at CPU
+1181  Job 83   arrives
+1186  Job 52   finishes at CPU
+1192  Job 84   arrives
+1196  Job 36   finishes at Disk 1
+1197  Job 53   finishes at CPU
+1204  Job 85   arrives
+1214  Job 86   arrives
+1216  Job 20   finishes at CPU
+1218  Job 15   finishes at Disk 2
+1230  Job 87   arrives
+1232  Job 22   finishes at CPU
+1232  Job 22   finishes
+1239  Job 39   finishes at Disk 1
+1244  Job 88   arrives
+1250  Job 54   finishes at CPU
+1254  Job 89   arrives
+1266  Job 55   finishes at CPU
+1266  Job 90   arrives
+1276  Job 91   arrives
+1283  Job 56   finishes at CPU
+1285  Job 37   finishes at Disk 2
+1285  Job 40   finishes at Disk 1
+1286  Job 92   arrives
+1298  Job 93   arrives
+1300  Job 2    finishes at CPU
+1300  Job 2    finishes
+1310  Job 94   arrives
+1319  Job 57   finishes at CPU
+1329  Job 95   arrives
+1332  Job 7    finishes at CPU
+1340  Job 41   finishes at Disk 1
+1341  Job 3    finishes at Disk 2
+1342  Job 58   finishes at CPU
+1346  Job 96   arrives
+1357  Job 59   finishes at CPU
+1357  Job 59   finishes
+1365  Job 97   arrives
+1372  Job 60   finishes at CPU
+1378  Job 98   arrives
+1389  Job 25   finishes at CPU
+1389  Job 25   finishes
+1396  Job 43   finishes at Disk 1
+1397  Job 6    finishes at Disk 2
+1397  Job 99   arrives
+1407  Job 61   finishes at CPU
+1407  Job 100  arrives
+1407  Job 61   finishes
+1422  Job 101  arrives
+1425  Job 62   finishes at CPU
+1436  Job 102  arrives
+1443  Job 24   finishes at CPU
+1443  Job 24   finishes
+1446  Job 103  arrives
+1450  Job 45   finishes at Disk 1
+1456  Job 42   finishes at Disk 2
+1462  Job 63   finishes at CPU
+1465  Job 104  arrives
+1474  Job 13   finishes at CPU
+1475  Job 105  arrives
+1485  Job 64   finishes at CPU
+1492  Job 106  arrives
+1496  Job 65   finishes at CPU
+1503  Job 107  arrives
+1504  Job 46   finishes at Disk 1
+1506  Job 26   finishes at CPU
+1506  Job 26   finishes
+1513  Job 44   finishes at Disk 2
+1518  Job 66   finishes at CPU
+1521  Job 108  arrives
+1531  Job 109  arrives
+1536  Job 67   finishes at CPU
+1542  Job 110  arrives
+1553  Job 29   finishes at CPU
+1553  Job 29   finishes
+1557  Job 111  arrives
+1560  Job 8    finishes at Disk 1
+1569  Job 68   finishes at CPU
+1570  Job 112  arrives
+1580  Job 69   finishes at CPU
+1582  Job 17   finishes at Disk 2
+1587  Job 113  arrives
+1598  Job 28   finishes at CPU
+1598  Job 28   finishes
+1606  Job 114  arrives
+1613  Job 70   finishes at CPU
+1617  Job 48   finishes at Disk 1
+1620  Job 115  arrives
+1627  Job 31   finishes at CPU
+1627  Job 31   finishes
+1633  Job 116  arrives
+1635  Job 47   finishes at Disk 2
+1639  Job 71   finishes at CPU
+1645  Job 117  arrives
+1652  Job 72   finishes at CPU
+1661  Job 118  arrives
+1665  Job 19   finishes at Disk 1
+1666  Job 73   finishes at CPU
+1674  Job 119  arrives
+1684  Job 120  arrives
+1685  Job 30   finishes at CPU
+1695  Job 49   finishes at Disk 2
+1696  Job 32   finishes at CPU
+1698  Job 121  arrives
+1707  Job 51   finishes at Disk 1
+1707  Job 74   finishes at CPU
+1708  Job 122  arrives
+1717  Job 75   finishes at CPU
+1717  Job 75   finishes
+1726  Job 123  arrives
+1728  Job 76   finishes at CPU
+1737  Job 124  arrives
+1741  Job 35   finishes at CPU
+1741  Job 35   finishes
+1748  Job 21   finishes at Disk 2
+1751  Job 125  arrives
+1751  Job 77   finishes at CPU
+1763  Job 53   finishes at Disk 1
+1766  Job 126  arrives
+1770  Job 5    finishes at CPU
+1781  Job 78   finishes at CPU
+1782  Job 127  arrives
+1792  Job 128  arrives
+1796  Job 79   finishes at CPU
+1801  Job 52   finishes at Disk 2
+1803  Job 129  arrives
+1810  Job 54   finishes at Disk 1
+1815  Job 80   finishes at CPU
+1817  Job 130  arrives
+1827  Job 131  arrives
+1833  Job 16   finishes at CPU
+1844  Job 132  arrives
+1847  Job 81   finishes at CPU
+1861  Job 20   finishes at Disk 2
+1862  Job 34   finishes at CPU
+1863  Job 133  arrives
+1864  Job 56   finishes at Disk 1
+1873  Job 134  arrives
+1878  Job 82   finishes at CPU
+1885  Job 135  arrives
+1891  Job 83   finishes at CPU
+1899  Job 136  arrives
+1906  Job 7    finishes at Disk 1
+1906  Job 84   finishes at CPU
+1910  Job 137  arrives
+1915  Job 55   finishes at Disk 2
+1925  Job 36   finishes at CPU
+1928  Job 138  arrives
+1944  Job 85   finishes at CPU
+1946  Job 139  arrives
+1953  Job 60   finishes at Disk 1
+1960  Job 140  arrives
+1962  Job 86   finishes at CPU
+1978  Job 57   finishes at Disk 2
+1978  Job 141  arrives
+1981  Job 15   finishes at CPU
+1988  Job 142  arrives
+1991  Job 87   finishes at CPU
+2005  Job 39   finishes at CPU
+2006  Job 143  arrives
+2009  Job 62   finishes at Disk 1
+2022  Job 88   finishes at CPU
+2023  Job 144  arrives
+2033  Job 145  arrives
+2034  Job 58   finishes at Disk 2
+2037  Job 89   finishes at CPU
+2037  Job 89   finishes
+2043  Job 146  arrives
+2054  Job 90   finishes at CPU
+2057  Job 147  arrives
+2060  Job 13   finishes at Disk 1
+2067  Job 91   finishes at CPU
+2069  Job 148  arrives
+2081  Job 37   finishes at CPU
+2081  Job 149  arrives
+2093  Job 40   finishes at CPU
+2093  Job 40   finishes
+2095  Job 63   finishes at Disk 2
+2095  Job 150  arrives
+2108  Job 92   finishes at CPU
+2110  Job 151  arrives
+2115  Job 66   finishes at Disk 1
+2121  Job 93   finishes at CPU
+2126  Job 152  arrives
+2133  Job 94   finishes at CPU
+2137  Job 153  arrives
+2144  Job 95   finishes at CPU
+2152  Job 154  arrives
+2153  Job 64   finishes at Disk 2
+2154  Job 41   finishes at CPU
+2164  Job 68   finishes at Disk 1
+2165  Job 155  arrives
+2169  Job 3    finishes at CPU
+2180  Job 156  arrives
+2187  Job 96   finishes at CPU
+2193  Job 157  arrives
+2197  Job 97   finishes at CPU
+2207  Job 98   finishes at CPU
+2208  Job 158  arrives
+2219  Job 65   finishes at Disk 2
+2219  Job 43   finishes at CPU
+2221  Job 159  arrives
+2223  Job 69   finishes at Disk 1
+2232  Job 160  arrives
+2238  Job 6    finishes at CPU
+2250  Job 161  arrives
+2251  Job 99   finishes at CPU
+2263  Job 100  finishes at CPU
+2267  Job 162  arrives
+2273  Job 71   finishes at Disk 1
+2282  Job 101  finishes at CPU
+2284  Job 163  arrives
+2286  Job 67   finishes at Disk 2
+2298  Job 164  arrives
+2300  Job 102  finishes at CPU
+2313  Job 103  finishes at CPU
+2314  Job 165  arrives
+2326  Job 166  arrives
+2328  Job 45   finishes at CPU
+2330  Job 73   finishes at Disk 1
+2340  Job 42   finishes at CPU
+2341  Job 70   finishes at Disk 2
+2341  Job 167  arrives
+2359  Job 104  finishes at CPU
+2360  Job 168  arrives
+2370  Job 105  finishes at CPU
+2372  Job 74   finishes at Disk 1
+2372  Job 169  arrives
+2382  Job 106  finishes at CPU
+2382  Job 106  finishes
+2384  Job 170  arrives
+2392  Job 72   finishes at Disk 2
+2396  Job 107  finishes at CPU
+2397  Job 171  arrives
+2407  Job 46   finishes at CPU
+2409  Job 172  arrives
+2414  Job 76   finishes at Disk 1
+2420  Job 173  arrives
+2425  Job 44   finishes at CPU
+2430  Job 174  arrives
+2440  Job 108  finishes at CPU
+2440  Job 108  finishes
+2441  Job 175  arrives
+2451  Job 109  finishes at CPU
+2451  Job 109  finishes
+2453  Job 30   finishes at Disk 2
+2454  Job 176  arrives
+2461  Job 110  finishes at CPU
+2470  Job 5    finishes at Disk 1
+2471  Job 177  arrives
+2475  Job 111  finishes at CPU
+2475  Job 111  finishes
+2490  Job 178  arrives
+2493  Job 8    finishes at CPU
+2507  Job 112  finishes at CPU
+2509  Job 179  arrives
+2521  Job 32   finishes at Disk 2
+2522  Job 17   finishes at CPU
+2523  Job 180  arrives
+2525  Job 78   finishes at Disk 1
+2534  Job 113  finishes at CPU
+2534  Job 181  arrives
+2534  Job 113  finishes
+2545  Job 114  finishes at CPU
+2547  Job 182  arrives
+2560  Job 183  arrives
+2562  Job 48   finishes at CPU
+2574  Job 77   finishes at Disk 2
+2574  Job 80   finishes at Disk 1
+2575  Job 115  finishes at CPU
+2578  Job 184  arrives
+2593  Job 116  finishes at CPU
+2595  Job 185  arrives
+2604  Job 47   finishes at CPU
+2605  Job 186  arrives
+2619  Job 117  finishes at CPU
+2619  Job 187  arrives
+2627  Job 82   finishes at Disk 1
+2638  Job 118  finishes at CPU
+2638  Job 188  arrives
+2640  Job 79   finishes at Disk 2
+2651  Job 19   finishes at CPU
+2657  Job 189  arrives
+2666  Job 119  finishes at CPU
+2673  Job 190  arrives
+2685  Job 83   finishes at Disk 1
+2685  Job 120  finishes at CPU
+2685  Job 191  arrives
+2694  Job 16   finishes at Disk 2
+2701  Job 192  arrives
+2703  Job 49   finishes at CPU
+2713  Job 193  arrives
+2716  Job 121  finishes at CPU
+2716  Job 121  finishes
+2727  Job 84   finishes at Disk 1
+2727  Job 51   finishes at CPU
+2730  Job 194  arrives
+2742  Job 122  finishes at CPU
+2748  Job 195  arrives
+2751  Job 81   finishes at Disk 2
+2761  Job 123  finishes at CPU
+2766  Job 196  arrives
+2772  Job 124  finishes at CPU
+2773  Job 86   finishes at Disk 1
+2778  Job 197  arrives
+2791  Job 21   finishes at CPU
+2791  Job 198  arrives
+2801  Job 199  arrives
+2802  Job 125  finishes at CPU
+2802  Job 125  finishes
+2805  Job 34   finishes at Disk 2
+2813  Job 53   finishes at CPU
+2816  Job 200  arrives
+2821  Job 87   finishes at Disk 1
+2824  Job 126  finishes at CPU
+2826  Job 201  arrives
+2840  Job 127  finishes at CPU
+2845  Job 202  arrives
+2853  Job 128  finishes at CPU
+2855  Job 203  arrives
+2865  Job 36   finishes at Disk 2
+2867  Job 52   finishes at CPU
+2874  Job 204  arrives
+2877  Job 129  finishes at CPU
+2880  Job 39   finishes at Disk 1
+2890  Job 205  arrives
+2893  Job 54   finishes at CPU
+2904  Job 206  arrives
+2910  Job 130  finishes at CPU
+2917  Job 207  arrives
+2924  Job 131  finishes at CPU
+2931  Job 91   finishes at Disk 1
+2931  Job 208  arrives
+2934  Job 85   finishes at Disk 2
+2942  Job 132  finishes at CPU
+2950  Job 209  arrives
+2957  Job 20   finishes at CPU
+2965  Job 210  arrives
+2967  Job 133  finishes at CPU
+2977  Job 56   finishes at CPU
+2977  Job 56   finishes
+2982  Job 211  arrives
+2983  Job 37   finishes at Disk 1
+2987  Job 134  finishes at CPU
+2987  Job 134  finishes
+2996  Job 212  arrives
+2997  Job 15   finishes at Disk 2
+3003  Job 135  finishes at CPU
+3008  Job 213  arrives
+3014  Job 136  finishes at CPU
+3026  Job 214  arrives
+3026  Job 7    finishes at CPU
+3032  Job 93   finishes at Disk 1
+3042  Job 137  finishes at CPU
+3043  Job 215  arrives
+3052  Job 88   finishes at Disk 2
+3058  Job 55   finishes at CPU
+3059  Job 216  arrives
+3068  Job 138  finishes at CPU
+3069  Job 217  arrives
+3078  Job 94   finishes at Disk 1
+3082  Job 218  arrives
+3085  Job 139  finishes at CPU
+3085  Job 139  finishes
+3093  Job 219  arrives
+3100  Job 60   finishes at CPU
+3109  Job 220  arrives
+3112  Job 140  finishes at CPU
+3119  Job 90   finishes at Disk 2
+3120  Job 221  arrives
+3123  Job 57   finishes at CPU
+3130  Job 3    finishes at Disk 1
+3131  Job 222  arrives
+3135  Job 141  finishes at CPU
+3145  Job 142  finishes at CPU
+3148  Job 223  arrives
+3158  Job 143  finishes at CPU
+3164  Job 224  arrives
+3176  Job 62   finishes at CPU
+3179  Job 96   finishes at Disk 1
+3179  Job 225  arrives
+3181  Job 92   finishes at Disk 2
+3189  Job 144  finishes at CPU
+3198  Job 226  arrives
+3203  Job 145  finishes at CPU
+3209  Job 227  arrives
+3218  Job 58   finishes at CPU
+3219  Job 228  arrives
+3229  Job 98   finishes at Disk 1
+3232  Job 146  finishes at CPU
+3237  Job 229  arrives
+3242  Job 95   finishes at Disk 2
+3248  Job 147  finishes at CPU
+3256  Job 230  arrives
+3260  Job 13   finishes at CPU
+3270  Job 148  finishes at CPU
+3272  Job 231  arrives
+3281  Job 6    finishes at Disk 1
+3283  Job 149  finishes at CPU
+3289  Job 232  arrives
+3295  Job 41   finishes at Disk 2
+3299  Job 63   finishes at CPU
+3308  Job 233  arrives
+3316  Job 150  finishes at CPU
+3319  Job 234  arrives
+3330  Job 151  finishes at CPU
+3330  Job 235  arrives
+3330  Job 151  finishes
+3331  Job 100  finishes at Disk 1
+3342  Job 66   finishes at CPU
+3349  Job 236  arrives
+3355  Job 152  finishes at CPU
+3360  Job 97   finishes at Disk 2
+3365  Job 237  arrives
+3374  Job 153  finishes at CPU
+3384  Job 238  arrives
+3386  Job 154  finishes at CPU
+3390  Job 103  finishes at Disk 1
+3399  Job 239  arrives
+3400  Job 64   finishes at CPU
+3417  Job 68   finishes at CPU
+3418  Job 240  arrives
+3420  Job 43   finishes at Disk 2
+3429  Job 241  arrives
+3430  Job 155  finishes at CPU
+3431  Job 45   finishes at Disk 1
+3444  Job 156  finishes at CPU
+3448  Job 242  arrives
+3460  Job 243  arrives
+3462  Job 157  finishes at CPU
+3462  Job 157  finishes
+3471  Job 42   finishes at Disk 1
+3477  Job 99   finishes at Disk 2
+3477  Job 158  finishes at CPU
+3478  Job 244  arrives
+3490  Job 65   finishes at CPU
+3494  Job 245  arrives
+3502  Job 159  finishes at CPU
+3502  Job 159  finishes
+3510  Job 246  arrives
+3513  Job 107  finishes at Disk 1
+3521  Job 69   finishes at CPU
+3527  Job 247  arrives
+3536  Job 160  finishes at CPU
+3538  Job 248  arrives
+3545  Job 101  finishes at Disk 2
+3547  Job 161  finishes at CPU
+3554  Job 249  arrives
+3560  Job 162  finishes at CPU
+3567  Job 250  arrives
+3570  Job 44   finishes at Disk 1
+3574  Job 71   finishes at CPU
+3574  Job 71   finishes
+3582  Job 251  arrives
+3593  Job 163  finishes at CPU
+3600  Job 102  finishes at Disk 2
+3601  Job 252  arrives
+3609  Job 67   finishes at CPU
+3616  Job 253  arrives
+3625  Job 164  finishes at CPU
+3627  Job 8    finishes at Disk 1
+3628  Job 254  arrives
+3643  Job 255  arrives
+3644  Job 165  finishes at CPU
+3654  Job 166  finishes at CPU
+3655  Job 104  finishes at Disk 2
+3661  Job 256  arrives
+3673  Job 73   finishes at CPU
+3673  Job 73   finishes
+3679  Job 257  arrives
+3682  Job 17   finishes at Disk 1
+3688  Job 70   finishes at CPU
+3691  Job 258  arrives
+3702  Job 167  finishes at CPU
+3705  Job 105  finishes at Disk 2
+3710  Job 259  arrives
+3715  Job 168  finishes at CPU
+3722  Job 48   finishes at Disk 1
+3726  Job 260  arrives
+3732  Job 74   finishes at CPU
+3732  Job 74   finishes
+3745  Job 261  arrives
+3746  Job 169  finishes at CPU
+3757  Job 170  finishes at CPU
+3757  Job 170  finishes
+3758  Job 46   finishes at Disk 2
+3761  Job 262  arrives
+3768  Job 72   finishes at CPU
+3768  Job 72   finishes
+3776  Job 115  finishes at Disk 1
+3778  Job 263  arrives
+3779  Job 171  finishes at CPU
+3797  Job 264  arrives
+3797  Job 172  finishes at CPU
+3807  Job 76   finishes at CPU
+3812  Job 265  arrives
+3818  Job 173  finishes at CPU
+3822  Job 266  arrives
+3824  Job 117  finishes at Disk 1
+3825  Job 110  finishes at Disk 2
+3830  Job 174  finishes at CPU
+3832  Job 267  arrives
+3844  Job 175  finishes at CPU
+3844  Job 268  arrives
+3855  Job 269  arrives
+3862  Job 30   finishes at CPU
+3868  Job 270  arrives
+3875  Job 112  finishes at Disk 2
+3875  Job 176  finishes at CPU
+3875  Job 176  finishes
+3877  Job 118  finishes at Disk 1
+3881  Job 271  arrives
+3889  Job 5    finishes at CPU
+3898  Job 272  arrives
+3900  Job 177  finishes at CPU
+3911  Job 273  arrives
+3919  Job 178  finishes at CPU
+3919  Job 178  finishes
+3922  Job 274  arrives
+3923  Job 120  finishes at Disk 1
+3930  Job 179  finishes at CPU
+3933  Job 275  arrives
+3940  Job 114  finishes at Disk 2
+3947  Job 32   finishes at CPU
+3950  Job 276  arrives
+3962  Job 277  arrives
+3964  Job 180  finishes at CPU
+3977  Job 49   finishes at Disk 1
+3981  Job 278  arrives
+3981  Job 78   finishes at CPU
+3994  Job 181  finishes at CPU
+3996  Job 279  arrives
+4004  Job 116  finishes at Disk 2
+4009  Job 182  finishes at CPU
+4012  Job 280  arrives
+4025  Job 281  arrives
+4026  Job 51   finishes at Disk 1
+4026  Job 183  finishes at CPU
+4036  Job 282  arrives
+4045  Job 77   finishes at CPU
+4046  Job 283  arrives
+4057  Job 284  arrives
+4058  Job 80   finishes at CPU
+4066  Job 47   finishes at Disk 2
+4070  Job 285  arrives
+4070  Job 184  finishes at CPU
+4070  Job 184  finishes
+4071  Job 21   finishes at Disk 1
+4082  Job 185  finishes at CPU
+4083  Job 286  arrives
+4099  Job 287  arrives
+4100  Job 186  finishes at CPU
+4112  Job 288  arrives
+4117  Job 187  finishes at CPU
+4123  Job 289  arrives
+4126  Job 53   finishes at Disk 1
+4131  Job 19   finishes at Disk 2
+4131  Job 82   finishes at CPU
+4135  Job 290  arrives
+4146  Job 291  arrives
+4150  Job 188  finishes at CPU
+4159  Job 292  arrives
+4163  Job 79   finishes at CPU
+4174  Job 189  finishes at CPU
+4175  Job 126  finishes at Disk 1
+4177  Job 293  arrives
+4185  Job 190  finishes at CPU
+4185  Job 190  finishes
+4187  Job 294  arrives
+4188  Job 119  finishes at Disk 2
+4197  Job 83   finishes at CPU
+4199  Job 295  arrives
+4211  Job 191  finishes at CPU
+4216  Job 296  arrives
+4218  Job 128  finishes at Disk 1
+4221  Job 16   finishes at CPU
+4232  Job 297  arrives
+4232  Job 192  finishes at CPU
+4242  Job 298  arrives
+4245  Job 122  finishes at Disk 2
+4248  Job 193  finishes at CPU
+4256  Job 299  arrives
+4259  Job 84   finishes at CPU
+4273  Job 194  finishes at CPU
+4275  Job 54   finishes at Disk 1
+4275  Job 300  arrives
+4284  Job 195  finishes at CPU
+4292  Job 301  arrives
+4302  Job 81   finishes at CPU
+4302  Job 81   finishes
+4311  Job 123  finishes at Disk 2
+4311  Job 302  arrives
+4314  Job 196  finishes at CPU
+4314  Job 196  finishes
+4324  Job 131  finishes at Disk 1
+4329  Job 303  arrives
+4331  Job 86   finishes at CPU
+4348  Job 304  arrives
+4349  Job 197  finishes at CPU
+4358  Job 305  arrives
+4363  Job 198  finishes at CPU
+4371  Job 306  arrives
+4373  Job 124  finishes at Disk 2
+4373  Job 199  finishes at CPU
+4381  Job 20   finishes at Disk 1
+4382  Job 307  arrives
+4387  Job 34   finishes at CPU
+4395  Job 308  arrives
+4397  Job 200  finishes at CPU
+4406  Job 309  arrives
+4415  Job 87   finishes at CPU
+4418  Job 310  arrives
+4423  Job 127  finishes at Disk 2
+4426  Job 133  finishes at Disk 1
+4429  Job 201  finishes at CPU
+4429  Job 201  finishes
+4433  Job 311  arrives
+4444  Job 202  finishes at CPU
+4447  Job 312  arrives
+4459  Job 203  finishes at CPU
+4459  Job 313  arrives
+4469  Job 314  arrives
+4470  Job 7    finishes at Disk 1
+4473  Job 52   finishes at Disk 2
+4475  Job 36   finishes at CPU
+4487  Job 204  finishes at CPU
+4488  Job 315  arrives
+4503  Job 39   finishes at CPU
+4505  Job 316  arrives
+4518  Job 205  finishes at CPU
+4519  Job 317  arrives
+4526  Job 137  finishes at Disk 1
+4535  Job 318  arrives
+4537  Job 129  finishes at Disk 2
+4537  Job 206  finishes at CPU
+4548  Job 319  arrives
+4549  Job 207  finishes at CPU
+4560  Job 320  arrives
+4560  Job 91   finishes at CPU
+4570  Job 138  finishes at Disk 1
+4570  Job 208  finishes at CPU
+4571  Job 321  arrives
+4582  Job 322  arrives
+4589  Job 85   finishes at CPU
+4589  Job 85   finishes
+4600  Job 323  arrives
+4601  Job 130  finishes at Disk 2
+4604  Job 209  finishes at CPU
+4611  Job 324  arrives
+4620  Job 210  finishes at CPU
+4625  Job 140  finishes at Disk 1
+4630  Job 325  arrives
+4636  Job 211  finishes at CPU
+4636  Job 211  finishes
+4646  Job 37   finishes at CPU
+4649  Job 326  arrives
+4663  Job 212  finishes at CPU
+4663  Job 212  finishes
+4665  Job 327  arrives
+4669  Job 132  finishes at Disk 2
+4671  Job 141  finishes at Disk 1
+4680  Job 15   finishes at CPU
+4682  Job 328  arrives
+4692  Job 213  finishes at CPU
+4698  Job 329  arrives
+4707  Job 214  finishes at CPU
+4712  Job 330  arrives
+4717  Job 93   finishes at CPU
+4723  Job 331  arrives
+4728  Job 143  finishes at Disk 1
+4734  Job 135  finishes at Disk 2
+4734  Job 215  finishes at CPU
+4734  Job 332  arrives
+4744  Job 88   finishes at CPU
+4744  Job 333  arrives
+4744  Job 88   finishes
+4755  Job 334  arrives
+4762  Job 216  finishes at CPU
+4762  Job 216  finishes
+4769  Job 335  arrives
+4777  Job 144  finishes at Disk 1
+4781  Job 217  finishes at CPU
+4787  Job 136  finishes at Disk 2
+4787  Job 336  arrives
+4794  Job 94   finishes at CPU
+4800  Job 337  arrives
+4804  Job 218  finishes at CPU
+4816  Job 338  arrives
+4816  Job 219  finishes at CPU
+4819  Job 58   finishes at Disk 1
+4829  Job 220  finishes at CPU
+4834  Job 339  arrives
+4843  Job 90   finishes at CPU
+4848  Job 340  arrives
+4854  Job 55   finishes at Disk 2
+4857  Job 221  finishes at CPU
+4859  Job 341  arrives
+4862  Job 146  finishes at Disk 1
+4867  Job 3    finishes at CPU
+4874  Job 342  arrives
+4879  Job 222  finishes at CPU
+4892  Job 343  arrives
+4892  Job 223  finishes at CPU
+4903  Job 148  finishes at Disk 1
+4904  Job 60   finishes at Disk 2
+4906  Job 344  arrives
+4909  Job 224  finishes at CPU
+4920  Job 345  arrives
+4924  Job 96   finishes at CPU
+4924  Job 96   finishes
+4932  Job 346  arrives
+4941  Job 225  finishes at CPU
+4941  Job 225  finishes
+4948  Job 347  arrives
+4953  Job 92   finishes at CPU
+4956  Job 57   finishes at Disk 2
+4958  Job 348  arrives
+4960  Job 149  finishes at Disk 1
+4970  Job 226  finishes at CPU
+4971  Job 349  arrives
+4986  Job 350  arrives
+4987  Job 227  finishes at CPU
+4987  Job 227  finishes
+4997  Job 228  finishes at CPU
+4999  Job 351  arrives
+5009  Job 98   finishes at CPU
+5009  Job 98   finishes
+5010  Job 352  arrives
+5014  Job 150  finishes at Disk 1
+5022  Job 142  finishes at Disk 2
+5023  Job 353  arrives
+5026  Job 229  finishes at CPU
+5026  Job 229  finishes
+5034  Job 354  arrives
+5045  Job 95   finishes at CPU
+5045  Job 355  arrives
+5059  Job 356  arrives
+5064  Job 230  finishes at CPU
+5067  Job 152  finishes at Disk 1
+5075  Job 357  arrives
+5080  Job 231  finishes at CPU
+5088  Job 62   finishes at Disk 2
+5089  Job 358  arrives
+5091  Job 6    finishes at CPU
+5103  Job 359  arrives
+5105  Job 232  finishes at CPU
+5119  Job 360  arrives
+5120  Job 64   finishes at Disk 1
+5121  Job 41   finishes at CPU
+5135  Job 361  arrives
+5135  Job 233  finishes at CPU
+5148  Job 145  finishes at Disk 2
+5148  Job 362  arrives
+5150  Job 234  finishes at CPU
+5150  Job 234  finishes
+5163  Job 363  arrives
+5166  Job 235  finishes at CPU
+5167  Job 68   finishes at Disk 1
+5176  Job 100  finishes at CPU
+5179  Job 364  arrives
+5191  Job 236  finishes at CPU
+5191  Job 236  finishes
+5192  Job 365  arrives
+5202  Job 97   finishes at CPU
+5206  Job 147  finishes at Disk 2
+5206  Job 366  arrives
+5217  Job 156  finishes at Disk 1
+5217  Job 237  finishes at CPU
+5221  Job 367  arrives
+5229  Job 238  finishes at CPU
+5235  Job 368  arrives
+5243  Job 103  finishes at CPU
+5248  Job 369  arrives
+5256  Job 239  finishes at CPU
+5257  Job 158  finishes at Disk 1
+5260  Job 370  arrives
+5264  Job 13   finishes at Disk 2
+5272  Job 240  finishes at CPU
+5278  Job 371  arrives
+5288  Job 43   finishes at CPU
+5288  Job 372  arrives
+5299  Job 241  finishes at CPU
+5303  Job 373  arrives
+5307  Job 69   finishes at Disk 1
+5315  Job 45   finishes at CPU
+5320  Job 374  arrives
+5329  Job 63   finishes at Disk 2
+5330  Job 375  arrives
+5331  Job 242  finishes at CPU
+5342  Job 376  arrives
+5346  Job 243  finishes at CPU
+5355  Job 377  arrives
+5357  Job 162  finishes at Disk 1
+5363  Job 42   finishes at CPU
+5363  Job 42   finishes
+5373  Job 378  arrives
+5381  Job 99   finishes at CPU
+5381  Job 99   finishes
+5386  Job 379  arrives
+5393  Job 244  finishes at CPU
+5393  Job 244  finishes
+5397  Job 66   finishes at Disk 2
+5401  Job 380  arrives
+5406  Job 163  finishes at Disk 1
+5407  Job 245  finishes at CPU
+5407  Job 245  finishes
+5417  Job 381  arrives
+5423  Job 246  finishes at CPU
+5430  Job 382  arrives
+5434  Job 107  finishes at CPU
+5443  Job 383  arrives
+5447  Job 153  finishes at Disk 2
+5451  Job 164  finishes at Disk 1
+5453  Job 247  finishes at CPU
+5453  Job 384  arrives
+5464  Job 385  arrives
+5465  Job 248  finishes at CPU
+5479  Job 101  finishes at CPU
+5482  Job 386  arrives
+5496  Job 249  finishes at CPU
+5496  Job 249  finishes
+5499  Job 387  arrives
+5505  Job 154  finishes at Disk 2
+5507  Job 166  finishes at Disk 1
+5509  Job 388  arrives
+5510  Job 250  finishes at CPU
+5521  Job 44   finishes at CPU
+5527  Job 389  arrives
+5536  Job 251  finishes at CPU
+5546  Job 390  arrives
+5550  Job 102  finishes at CPU
+5550  Job 102  finishes
+5553  Job 167  finishes at Disk 1
+5559  Job 391  arrives
+5565  Job 252  finishes at CPU
+5565  Job 252  finishes
+5573  Job 155  finishes at Disk 2
+5573  Job 392  arrives
+5580  Job 253  finishes at CPU
+5583  Job 393  arrives
+5590  Job 8    finishes at CPU
+5596  Job 169  finishes at Disk 1
+5601  Job 254  finishes at CPU
+5602  Job 394  arrives
+5620  Job 255  finishes at CPU
+5620  Job 395  arrives
+5625  Job 65   finishes at Disk 2
+5636  Job 104  finishes at CPU
+5636  Job 104  finishes
+5638  Job 396  arrives
+5640  Job 171  finishes at Disk 1
+5649  Job 256  finishes at CPU
+5649  Job 256  finishes
+5656  Job 397  arrives
+5666  Job 257  finishes at CPU
+5667  Job 398  arrives
+5678  Job 160  finishes at Disk 2
+5682  Job 17   finishes at CPU
+5684  Job 399  arrives
+5690  Job 76   finishes at Disk 1
+5699  Job 258  finishes at CPU
+5703  Job 400  arrives
+5710  Job 105  finishes at CPU
+5710  Job 105  finishes
+5722  Job 401  arrives
+5724  Job 259  finishes at CPU
+5731  Job 161  finishes at Disk 2
+5735  Job 402  arrives
+5741  Job 48   finishes at CPU
+5745  Job 174  finishes at Disk 1
+5751  Job 260  finishes at CPU
+5753  Job 403  arrives
+5766  Job 261  finishes at CPU
+5766  Job 404  arrives
+5779  Job 46   finishes at CPU
+5779  Job 46   finishes
+5781  Job 405  arrives
+5782  Job 67   finishes at Disk 2
+5793  Job 262  finishes at CPU
+5793  Job 262  finishes
+5799  Job 30   finishes at Disk 1
+5799  Job 406  arrives
+5807  Job 115  finishes at CPU
+5812  Job 407  arrives
+5822  Job 263  finishes at CPU
+5827  Job 408  arrives
+5833  Job 165  finishes at Disk 2
+5833  Job 264  finishes at CPU
+5839  Job 409  arrives
+5847  Job 265  finishes at CPU
+5853  Job 410  arrives
+5857  Job 179  finishes at Disk 1
+5864  Job 411  arrives
+5865  Job 266  finishes at CPU
+5877  Job 117  finishes at CPU
+5882  Job 412  arrives
+5888  Job 70   finishes at Disk 2
+5893  Job 413  arrives
+5895  Job 110  finishes at CPU
+5905  Job 180  finishes at Disk 1
+5909  Job 414  arrives
+5910  Job 267  finishes at CPU
+5910  Job 267  finishes
+5921  Job 415  arrives
+5922  Job 268  finishes at CPU
+5938  Job 416  arrives
+5938  Job 269  finishes at CPU
+5938  Job 269  finishes
+5942  Job 168  finishes at Disk 2
+5949  Job 417  arrives
+5957  Job 270  finishes at CPU
+5959  Job 78   finishes at Disk 1
+5968  Job 418  arrives
+5969  Job 112  finishes at CPU
+5985  Job 118  finishes at CPU
+5986  Job 419  arrives
+5998  Job 172  finishes at Disk 2
+5998  Job 271  finishes at CPU
+6001  Job 420  arrives
+6005  Job 182  finishes at Disk 1
+6011  Job 421  arrives
+6017  Job 272  finishes at CPU
+6021  Job 422  arrives
+6033  Job 273  finishes at CPU
+6040  Job 423  arrives
+6043  Job 274  finishes at CPU
+6056  Job 183  finishes at Disk 1
+6057  Job 173  finishes at Disk 2
+6057  Job 120  finishes at CPU
+6058  Job 424  arrives
+6076  Job 275  finishes at CPU
+6076  Job 425  arrives
+6091  Job 114  finishes at CPU
+6095  Job 426  arrives
+6103  Job 185  finishes at Disk 1
+6107  Job 427  arrives
+6109  Job 276  finishes at CPU
+6109  Job 276  finishes
+6125  Job 428  arrives
+6126  Job 175  finishes at Disk 2
+6128  Job 277  finishes at CPU
+6128  Job 277  finishes
+6139  Job 49   finishes at CPU
+6143  Job 429  arrives
+6149  Job 186  finishes at Disk 1
+6149  Job 278  finishes at CPU
+6154  Job 430  arrives
+6165  Job 279  finishes at CPU
+6165  Job 431  arrives
+6181  Job 432  arrives
+6184  Job 116  finishes at CPU
+6186  Job 5    finishes at Disk 2
+6195  Job 82   finishes at Disk 1
+6196  Job 280  finishes at CPU
+6200  Job 433  arrives
+6211  Job 434  arrives
+6215  Job 281  finishes at CPU
+6223  Job 435  arrives
+6227  Job 51   finishes at CPU
+6236  Job 436  arrives
+6244  Job 177  finishes at Disk 2
+6245  Job 282  finishes at CPU
+6251  Job 79   finishes at Disk 1
+6252  Job 437  arrives
+6263  Job 283  finishes at CPU
+6270  Job 438  arrives
+6273  Job 284  finishes at CPU
+6273  Job 284  finishes
+6284  Job 439  arrives
+6287  Job 47   finishes at CPU
+6296  Job 32   finishes at Disk 2
+6296  Job 440  arrives
+6302  Job 285  finishes at CPU
+6302  Job 285  finishes
+6306  Job 441  arrives
+6309  Job 83   finishes at Disk 1
+6318  Job 21   finishes at CPU
+6320  Job 442  arrives
+6330  Job 286  finishes at CPU
+6330  Job 286  finishes
+6338  Job 443  arrives
+6348  Job 287  finishes at CPU
+6352  Job 16   finishes at Disk 1
+6354  Job 444  arrives
+6363  Job 181  finishes at Disk 2
+6365  Job 445  arrives
+6367  Job 288  finishes at CPU
+6377  Job 289  finishes at CPU
+6382  Job 446  arrives
+6388  Job 53   finishes at CPU
+6388  Job 53   finishes
+6399  Job 84   finishes at Disk 1
+6400  Job 447  arrives
+6404  Job 19   finishes at CPU
+6416  Job 448  arrives
+6421  Job 290  finishes at CPU
+6428  Job 77   finishes at Disk 2
+6431  Job 449  arrives
+6433  Job 291  finishes at CPU
+6446  Job 292  finishes at CPU
+6446  Job 292  finishes
+6447  Job 450  arrives
+6456  Job 126  finishes at CPU
+6456  Job 126  finishes
+6458  Job 195  finishes at Disk 1
+6461  Job 451  arrives
+6469  Job 293  finishes at CPU
+6480  Job 452  arrives
+6482  Job 294  finishes at CPU
+6482  Job 294  finishes
+6494  Job 80   finishes at Disk 2
+6497  Job 119  finishes at CPU
+6498  Job 453  arrives
+6511  Job 295  finishes at CPU
+6512  Job 86   finishes at Disk 1
+6515  Job 454  arrives
+6525  Job 455  arrives
+6527  Job 296  finishes at CPU
+6527  Job 296  finishes
+6542  Job 128  finishes at CPU
+6542  Job 128  finishes
+6544  Job 456  arrives
+6554  Job 457  arrives
+6557  Job 187  finishes at Disk 2
+6558  Job 297  finishes at CPU
+6558  Job 297  finishes
+6559  Job 197  finishes at Disk 1
+6566  Job 458  arrives
+6574  Job 298  finishes at CPU
+6576  Job 459  arrives
+6584  Job 122  finishes at CPU
+6593  Job 460  arrives
+6595  Job 299  finishes at CPU
+6595  Job 299  finishes
+6599  Job 34   finishes at Disk 1
+6609  Job 54   finishes at CPU
+6611  Job 461  arrives
+6623  Job 300  finishes at CPU
+6623  Job 462  arrives
+6624  Job 188  finishes at Disk 2
+6637  Job 463  arrives
+6640  Job 87   finishes at Disk 1
+6641  Job 301  finishes at CPU
+6649  Job 464  arrives
+6657  Job 123  finishes at CPU
+6659  Job 465  arrives
+6669  Job 302  finishes at CPU
+6669  Job 466  arrives
+6681  Job 467  arrives
+6688  Job 131  finishes at CPU
+6691  Job 189  finishes at Disk 2
+6694  Job 203  finishes at Disk 1
+6696  Job 468  arrives
+6705  Job 303  finishes at CPU
+6708  Job 469  arrives
+6722  Job 304  finishes at CPU
+6725  Job 470  arrives
+6732  Job 305  finishes at CPU
+6744  Job 471  arrives
+6745  Job 191  finishes at Disk 2
+6749  Job 306  finishes at CPU
+6753  Job 36   finishes at Disk 1
+6757  Job 472  arrives
+6768  Job 124  finishes at CPU
+6769  Job 473  arrives
+6780  Job 20   finishes at CPU
+6786  Job 474  arrives
+6794  Job 307  finishes at CPU
+6799  Job 205  finishes at Disk 1
+6799  Job 475  arrives
+6800  Job 192  finishes at Disk 2
+6811  Job 308  finishes at CPU
+6817  Job 476  arrives
+6830  Job 309  finishes at CPU
+6830  Job 477  arrives
+6842  Job 478  arrives
+6848  Job 310  finishes at CPU
+6854  Job 207  finishes at Disk 1
+6857  Job 193  finishes at Disk 2
+6859  Job 479  arrives
+6859  Job 127  finishes at CPU
+6870  Job 480  arrives
+6876  Job 133  finishes at CPU
+6889  Job 481  arrives
+6889  Job 311  finishes at CPU
+6902  Job 482  arrives
+6907  Job 312  finishes at CPU
+6912  Job 208  finishes at Disk 1
+6916  Job 483  arrives
+6924  Job 194  finishes at Disk 2
+6925  Job 313  finishes at CPU
+6930  Job 484  arrives
+6943  Job 314  finishes at CPU
+6945  Job 485  arrives
+6954  Job 7    finishes at CPU
+6963  Job 209  finishes at Disk 1
+6963  Job 486  arrives
+6969  Job 52   finishes at CPU
+6969  Job 52   finishes
+6974  Job 487  arrives
+6983  Job 198  finishes at Disk 2
+6987  Job 315  finishes at CPU
+6992  Job 488  arrives
+6997  Job 316  finishes at CPU
+7004  Job 489  arrives
+7009  Job 317  finishes at CPU
+7014  Job 490  arrives
+7019  Job 37   finishes at Disk 1
+7022  Job 137  finishes at CPU
+7027  Job 491  arrives
+7033  Job 318  finishes at CPU
+7043  Job 492  arrives
+7050  Job 199  finishes at Disk 2
+7051  Job 129  finishes at CPU
+7061  Job 493  arrives
+7065  Job 319  finishes at CPU
+7071  Job 213  finishes at Disk 1
+7078  Job 494  arrives
+7081  Job 320  finishes at CPU
+7081  Job 320  finishes
+7088  Job 495  arrives
+7094  Job 138  finishes at CPU
+7102  Job 200  finishes at Disk 2
+7105  Job 321  finishes at CPU
+7105  Job 321  finishes
+7106  Job 496  arrives
+7120  Job 322  finishes at CPU
+7124  Job 497  arrives
+7128  Job 93   finishes at Disk 1
+7136  Job 323  finishes at CPU
+7141  Job 498  arrives
+7146  Job 130  finishes at CPU
+7151  Job 499  arrives
+7163  Job 202  finishes at Disk 2
+7164  Job 324  finishes at CPU
+7168  Job 500  arrives
+7170  Job 217  finishes at Disk 1
+7174  Job 140  finishes at CPU
+7185  Job 501  arrives
+7193  Job 325  finishes at CPU
+7199  Job 502  arrives
+7203  Job 326  finishes at CPU
+7211  Job 94   finishes at Disk 1
+7215  Job 327  finishes at CPU
+7218  Job 503  arrives
+7225  Job 132  finishes at CPU
+7228  Job 204  finishes at Disk 2
+7236  Job 504  arrives
+7238  Job 141  finishes at CPU
+7247  Job 505  arrives
+7251  Job 220  finishes at Disk 1
+7255  Job 328  finishes at CPU
+7265  Job 329  finishes at CPU
+7266  Job 506  arrives
+7282  Job 507  arrives
+7284  Job 330  finishes at CPU
+7284  Job 330  finishes
+7297  Job 39   finishes at Disk 2
+7299  Job 90   finishes at Disk 1
+7299  Job 331  finishes at CPU
+7299  Job 331  finishes
+7301  Job 508  arrives
+7316  Job 509  arrives
+7317  Job 143  finishes at CPU
+7333  Job 510  arrives
+7335  Job 135  finishes at CPU
+7339  Job 3    finishes at Disk 1
+7348  Job 511  arrives
+7352  Job 332  finishes at CPU
+7355  Job 206  finishes at Disk 2
+7365  Job 512  arrives
+7371  Job 333  finishes at CPU
+7380  Job 222  finishes at Disk 1
+7382  Job 513  arrives
+7386  Job 334  finishes at CPU
+7396  Job 514  arrives
+7405  Job 335  finishes at CPU
+7412  Job 515  arrives
+7417  Job 144  finishes at CPU
+7423  Job 91   finishes at Disk 2
+7428  Job 224  finishes at Disk 1
+7430  Job 516  arrives
+7434  Job 136  finishes at CPU
+7434  Job 136  finishes
+7441  Job 517  arrives
+7445  Job 336  finishes at CPU
+7454  Job 518  arrives
+7464  Job 337  finishes at CPU
+7466  Job 519  arrives
+7477  Job 228  finishes at Disk 1
+7479  Job 520  arrives
+7480  Job 338  finishes at CPU
+7485  Job 210  finishes at Disk 2
+7494  Job 521  arrives
+7499  Job 58   finishes at CPU
+7511  Job 339  finishes at CPU
+7513  Job 522  arrives
+7523  Job 523  arrives
+7527  Job 95   finishes at Disk 1
+7527  Job 340  finishes at CPU
+7527  Job 340  finishes
+7537  Job 524  arrives
+7544  Job 15   finishes at Disk 2
+7544  Job 55   finishes at CPU
+7554  Job 525  arrives
+7558  Job 341  finishes at CPU
+7570  Job 231  finishes at Disk 1
+7571  Job 526  arrives
+7577  Job 146  finishes at CPU
+7583  Job 527  arrives
+7593  Job 528  arrives
+7594  Job 342  finishes at CPU
+7596  Job 214  finishes at Disk 2
+7612  Job 529  arrives
+7612  Job 343  finishes at CPU
+7625  Job 148  finishes at CPU
+7625  Job 148  finishes
+7627  Job 41   finishes at Disk 1
+7627  Job 530  arrives
+7642  Job 60   finishes at CPU
+7643  Job 531  arrives
+7658  Job 344  finishes at CPU
+7661  Job 532  arrives
+7664  Job 215  finishes at Disk 2
+7668  Job 233  finishes at Disk 1
+7676  Job 345  finishes at CPU
+7680  Job 533  arrives
+7691  Job 534  arrives
+7695  Job 346  finishes at CPU
+7705  Job 347  finishes at CPU
+7707  Job 535  arrives
+7717  Job 100  finishes at Disk 1
+7718  Job 57   finishes at CPU
+7718  Job 536  arrives
+7725  Job 218  finishes at Disk 2
+7735  Job 537  arrives
+7736  Job 348  finishes at CPU
+7749  Job 538  arrives
+7751  Job 149  finishes at CPU
+7764  Job 349  finishes at CPU
+7765  Job 539  arrives
+7774  Job 97   finishes at Disk 1
+7780  Job 219  finishes at Disk 2
+7783  Job 350  finishes at CPU
+7784  Job 540  arrives
+7794  Job 541  arrives
+7801  Job 351  finishes at CPU
+7810  Job 542  arrives
+7816  Job 352  finishes at CPU
+7821  Job 543  arrives
+7831  Job 103  finishes at Disk 1
+7834  Job 221  finishes at Disk 2
+7835  Job 150  finishes at CPU
+7837  Job 544  arrives
+7846  Job 142  finishes at CPU
+7851  Job 545  arrives
+7865  Job 353  finishes at CPU
+7870  Job 546  arrives
+7875  Job 354  finishes at CPU
+7885  Job 239  finishes at Disk 1
+7885  Job 547  arrives
+7893  Job 355  finishes at CPU
+7894  Job 223  finishes at Disk 2
+7904  Job 548  arrives
+7909  Job 356  finishes at CPU
+7920  Job 549  arrives
+7927  Job 152  finishes at CPU
+7936  Job 550  arrives
+7943  Job 43   finishes at Disk 1
+7945  Job 357  finishes at CPU
+7951  Job 92   finishes at Disk 2
+7952  Job 551  arrives
+7960  Job 62   finishes at CPU
+7968  Job 552  arrives
+7975  Job 358  finishes at CPU
+7984  Job 553  arrives
+7994  Job 359  finishes at CPU
+7999  Job 45   finishes at Disk 1
+8002  Job 554  arrives
+8007  Job 226  finishes at Disk 2
+8010  Job 360  finishes at CPU
+8018  Job 555  arrives
+8028  Job 64   finishes at CPU
+8030  Job 556  arrives
+8040  Job 557  arrives
+8041  Job 361  finishes at CPU
+8045  Job 246  finishes at Disk 1
+8050  Job 558  arrives
+8053  Job 145  finishes at CPU
+8064  Job 559  arrives
+8064  Job 362  finishes at CPU
+8071  Job 230  finishes at Disk 2
+8076  Job 363  finishes at CPU
+8082  Job 560  arrives
+8090  Job 107  finishes at Disk 1
+8093  Job 68   finishes at CPU
+8094  Job 561  arrives
+8111  Job 364  finishes at CPU
+8111  Job 562  arrives
+8125  Job 563  arrives
+8129  Job 365  finishes at CPU
+8132  Job 6    finishes at Disk 2
+8136  Job 247  finishes at Disk 1
+8141  Job 564  arrives
+8144  Job 147  finishes at CPU
+8155  Job 565  arrives
+8158  Job 366  finishes at CPU
+8168  Job 156  finishes at CPU
+8169  Job 566  arrives
+8180  Job 567  arrives
+8185  Job 367  finishes at CPU
+8190  Job 232  finishes at Disk 2
+8192  Job 101  finishes at Disk 1
+8199  Job 568  arrives
+8199  Job 368  finishes at CPU
+8211  Job 369  finishes at CPU
+8211  Job 369  finishes
+8217  Job 569  arrives
+8223  Job 158  finishes at CPU
+8236  Job 570  arrives
+8239  Job 251  finishes at Disk 1
+8239  Job 370  finishes at CPU
+8253  Job 235  finishes at Disk 2
+8255  Job 571  arrives
+8258  Job 13   finishes at CPU
+8265  Job 572  arrives
+8271  Job 371  finishes at CPU
+8271  Job 371  finishes
+8277  Job 573  arrives
+8282  Job 372  finishes at CPU
+8288  Job 253  finishes at Disk 1
+8293  Job 574  arrives
+8293  Job 373  finishes at CPU
+8303  Job 575  arrives
+8304  Job 237  finishes at Disk 2
+8305  Job 69   finishes at CPU
+8315  Job 576  arrives
+8322  Job 374  finishes at CPU
+8329  Job 577  arrives
+8341  Job 63   finishes at CPU
+8344  Job 254  finishes at Disk 1
+8345  Job 578  arrives
+8353  Job 375  finishes at CPU
+8359  Job 579  arrives
+8363  Job 238  finishes at Disk 2
+8363  Job 376  finishes at CPU
+8375  Job 580  arrives
+8378  Job 377  finishes at CPU
+8393  Job 581  arrives
+8394  Job 162  finishes at CPU
+8401  Job 255  finishes at Disk 1
+8409  Job 582  arrives
+8410  Job 378  finishes at CPU
+8410  Job 378  finishes
+8413  Job 240  finishes at Disk 2
+8422  Job 379  finishes at CPU
+8423  Job 583  arrives
+8433  Job 584  arrives
+8436  Job 66   finishes at CPU
+8443  Job 585  arrives
+8448  Job 380  finishes at CPU
+8453  Job 258  finishes at Disk 1
+8458  Job 163  finishes at CPU
+8460  Job 586  arrives
+8464  Job 241  finishes at Disk 2
+8470  Job 381  finishes at CPU
+8474  Job 587  arrives
+8483  Job 382  finishes at CPU
+8491  Job 588  arrives
+8501  Job 383  finishes at CPU
+8509  Job 260  finishes at Disk 1
+8510  Job 589  arrives
+8513  Job 153  finishes at CPU
+8523  Job 242  finishes at Disk 2
+8524  Job 164  finishes at CPU
+8526  Job 590  arrives
+8536  Job 384  finishes at CPU
+8537  Job 591  arrives
+8550  Job 592  arrives
+8552  Job 385  finishes at CPU
+8554  Job 261  finishes at Disk 1
+8564  Job 386  finishes at CPU
+8566  Job 593  arrives
+8579  Job 387  finishes at CPU
+8582  Job 594  arrives
+8583  Job 243  finishes at Disk 2
+8592  Job 154  finishes at CPU
+8594  Job 595  arrives
+8606  Job 596  arrives
+8609  Job 166  finishes at CPU
+8611  Job 263  finishes at Disk 1
+8624  Job 597  arrives
+8624  Job 388  finishes at CPU
+8624  Job 388  finishes
+8634  Job 598  arrives
+8640  Job 389  finishes at CPU
+8645  Job 248  finishes at Disk 2
+8649  Job 599  arrives
+8651  Job 390  finishes at CPU
+8665  Job 600  arrives
+8670  Job 265  finishes at Disk 1
+8670  Job 167  finishes at CPU
+8681  Job 391  finishes at CPU
+8684  Job 601  arrives
+8698  Job 155  finishes at CPU
+8699  Job 602  arrives
+8700  Job 250  finishes at Disk 2
+8710  Job 603  arrives
+8714  Job 392  finishes at CPU
+8717  Job 117  finishes at Disk 1
+8725  Job 604  arrives
+8730  Job 393  finishes at CPU
+8736  Job 605  arrives
+8746  Job 606  arrives
+8749  Job 169  finishes at CPU
+8761  Job 394  finishes at CPU
+8762  Job 268  finishes at Disk 1
+8762  Job 607  arrives
+8768  Job 44   finishes at Disk 2
+8775  Job 608  arrives
+8778  Job 395  finishes at CPU
+8794  Job 609  arrives
+8796  Job 65   finishes at CPU
+8805  Job 112  finishes at Disk 1
+8805  Job 610  arrives
+8814  Job 396  finishes at CPU
+8821  Job 8    finishes at Disk 2
+8822  Job 611  arrives
+8829  Job 171  finishes at CPU
+8840  Job 612  arrives
+8845  Job 397  finishes at CPU
+8845  Job 397  finishes
+8856  Job 613  arrives
+8860  Job 398  finishes at CPU
+8862  Job 118  finishes at Disk 1
+8866  Job 614  arrives
+8871  Job 160  finishes at CPU
+8871  Job 160  finishes
+8878  Job 615  arrives
+8886  Job 257  finishes at Disk 2
+8888  Job 399  finishes at CPU
+8891  Job 616  arrives
+8905  Job 76   finishes at CPU
+8907  Job 617  arrives
+8910  Job 273  finishes at Disk 1
+8920  Job 618  arrives
+8922  Job 400  finishes at CPU
+8937  Job 619  arrives
+8938  Job 401  finishes at CPU
+8947  Job 17   finishes at Disk 2
+8948  Job 161  finishes at CPU
+8951  Job 620  arrives
+8957  Job 120  finishes at Disk 1
+8962  Job 402  finishes at CPU
+8962  Job 402  finishes
+8965  Job 621  arrives
+8973  Job 174  finishes at CPU
+8979  Job 622  arrives
+8990  Job 403  finishes at CPU
+8990  Job 623  arrives
+9000  Job 624  arrives
+9001  Job 404  finishes at CPU
+9003  Job 114  finishes at Disk 1
+9004  Job 259  finishes at Disk 2
+9013  Job 405  finishes at CPU
+9015  Job 625  arrives
+9029  Job 626  arrives
+9030  Job 67   finishes at CPU
+9041  Job 30   finishes at CPU
+9041  Job 30   finishes
+9042  Job 627  arrives
+9046  Job 278  finishes at Disk 1
+9052  Job 406  finishes at CPU
+9052  Job 628  arrives
+9063  Job 48   finishes at Disk 2
+9065  Job 407  finishes at CPU
+9067  Job 629  arrives
+9078  Job 630  arrives
+9082  Job 408  finishes at CPU
+9088  Job 279  finishes at Disk 1
+9088  Job 631  arrives
+9092  Job 165  finishes at CPU
+9102  Job 409  finishes at CPU
+9103  Job 632  arrives
+9112  Job 410  finishes at CPU
+9116  Job 633  arrives
+9118  Job 115  finishes at Disk 2
+9122  Job 179  finishes at CPU
+9122  Job 179  finishes
+9131  Job 634  arrives
+9139  Job 116  finishes at Disk 1
+9141  Job 411  finishes at CPU
+9150  Job 635  arrives
+9160  Job 412  finishes at CPU
+9167  Job 636  arrives
+9173  Job 70   finishes at CPU
+9178  Job 264  finishes at Disk 2
+9179  Job 51   finishes at Disk 1
+9184  Job 413  finishes at CPU
+9185  Job 637  arrives
+9199  Job 638  arrives
+9201  Job 180  finishes at CPU
+9211  Job 414  finishes at CPU
+9211  Job 414  finishes
+9218  Job 639  arrives
+9222  Job 415  finishes at CPU
+9229  Job 266  finishes at Disk 2
+9231  Job 283  finishes at Disk 1
+9235  Job 640  arrives
+9238  Job 416  finishes at CPU
+9246  Job 641  arrives
+9251  Job 168  finishes at CPU
+9251  Job 168  finishes
+9261  Job 642  arrives
+9267  Job 417  finishes at CPU
+9273  Job 643  arrives
+9282  Job 78   finishes at CPU
+9285  Job 47   finishes at Disk 1
+9286  Job 644  arrives
+9290  Job 110  finishes at Disk 2
+9296  Job 418  finishes at CPU
+9296  Job 418  finishes
+9299  Job 645  arrives
+9310  Job 419  finishes at CPU
+9311  Job 646  arrives
+9322  Job 172  finishes at CPU
+9323  Job 647  arrives
+9326  Job 288  finishes at Disk 1
+9337  Job 420  finishes at CPU
+9339  Job 648  arrives
+9341  Job 270  finishes at Disk 2
+9354  Job 649  arrives
+9355  Job 182  finishes at CPU
+9366  Job 650  arrives
+9367  Job 289  finishes at Disk 1
+9367  Job 421  finishes at CPU
+9378  Job 651  arrives
+9383  Job 422  finishes at CPU
+9383  Job 422  finishes
+9388  Job 652  arrives
+9395  Job 423  finishes at CPU
+9406  Job 653  arrives
+9410  Job 271  finishes at Disk 2
+9413  Job 19   finishes at Disk 1
+9413  Job 183  finishes at CPU
+9413  Job 183  finishes
+9425  Job 654  arrives
+9426  Job 173  finishes at CPU
+9440  Job 655  arrives
+9441  Job 424  finishes at CPU
+9451  Job 656  arrives
+9451  Job 425  finishes at CPU
+9451  Job 425  finishes
+9457  Job 293  finishes at Disk 1
+9467  Job 272  finishes at Disk 2
+9467  Job 657  arrives
+9468  Job 426  finishes at CPU
+9478  Job 658  arrives
+9480  Job 185  finishes at CPU
+9488  Job 659  arrives
+9495  Job 427  finishes at CPU
+9495  Job 427  finishes
+9499  Job 660  arrives
+9503  Job 295  finishes at Disk 1
+9505  Job 428  finishes at CPU
+9513  Job 661  arrives
+9522  Job 175  finishes at CPU
+9530  Job 662  arrives
+9532  Job 274  finishes at Disk 2
+9535  Job 429  finishes at CPU
+9540  Job 663  arrives
+9546  Job 186  finishes at CPU
+9546  Job 186  finishes
+9550  Job 298  finishes at Disk 1
+9550  Job 664  arrives
+9556  Job 430  finishes at CPU
+9569  Job 665  arrives
+9569  Job 431  finishes at CPU
+9581  Job 432  finishes at CPU
+9586  Job 666  arrives
+9592  Job 54   finishes at Disk 1
+9593  Job 5    finishes at CPU
+9599  Job 275  finishes at Disk 2
+9601  Job 667  arrives
+9604  Job 82   finishes at CPU
+9618  Job 668  arrives
+9620  Job 433  finishes at CPU
+9630  Job 669  arrives
+9635  Job 434  finishes at CPU
+9635  Job 434  finishes
+9640  Job 300  finishes at Disk 1
+9647  Job 670  arrives
+9652  Job 435  finishes at CPU
+9658  Job 49   finishes at Disk 2
+9662  Job 671  arrives
+9663  Job 436  finishes at CPU
+9674  Job 177  finishes at CPU
+9674  Job 177  finishes
+9676  Job 672  arrives
+9685  Job 302  finishes at Disk 1
+9688  Job 673  arrives
+9692  Job 79   finishes at CPU
+9698  Job 674  arrives
+9707  Job 437  finishes at CPU
+9707  Job 437  finishes
+9709  Job 675  arrives
+9724  Job 676  arrives
+9726  Job 438  finishes at CPU
+9727  Job 280  finishes at Disk 2
+9733  Job 131  finishes at Disk 1
+9740  Job 677  arrives
+9741  Job 439  finishes at CPU
+9753  Job 32   finishes at CPU
+9753  Job 32   finishes
+9759  Job 678  arrives
+9768  Job 440  finishes at CPU
+9768  Job 440  finishes
+9769  Job 679  arrives
+9773  Job 305  finishes at Disk 1
+9781  Job 680  arrives
+9783  Job 281  finishes at Disk 2
+9783  Job 441  finishes at CPU
+9797  Job 83   finishes at CPU
+9798  Job 681  arrives
+9809  Job 682  arrives
+9813  Job 124  finishes at Disk 1
+9816  Job 442  finishes at CPU
+9820  Job 683  arrives
+9831  Job 684  arrives
+9833  Job 443  finishes at CPU
+9839  Job 282  finishes at Disk 2
+9845  Job 685  arrives
+9852  Job 16   finishes at CPU
+9863  Job 686  arrives
+9864  Job 20   finishes at Disk 1
+9867  Job 444  finishes at CPU
+9877  Job 687  arrives
+9877  Job 181  finishes at CPU
+9890  Job 688  arrives
+9896  Job 445  finishes at CPU
+9908  Job 21   finishes at Disk 2
+9908  Job 689  arrives
+9911  Job 446  finishes at CPU
+9922  Job 308  finishes at Disk 1
+9927  Job 690  arrives
+9929  Job 84   finishes at CPU
+9938  Job 691  arrives
+9939  Job 447  finishes at CPU
+9957  Job 692  arrives
+9958  Job 448  finishes at CPU
+9958  Job 448  finishes
+9962  Job 287  finishes at Disk 2
+9971  Job 127  finishes at Disk 1
+9974  Job 77   finishes at CPU
+9976  Job 693  arrives
+9987  Job 449  finishes at CPU
+9991  Job 694  arrives
+10000 Job 450  finishes at CPU
+10000 Job 450  finishes
+10009 Job 695  arrives
+10011 Job 195  finishes at CPU
+10011 Job 195  finishes
+10012 Job 290  finishes at Disk 2
+10022 Job 696  arrives
+10026 Job 451  finishes at CPU
+10027 Job 133  finishes at Disk 1
+10036 Job 697  arrives
+10038 Job 452  finishes at CPU
+10051 Job 698  arrives
+10057 Job 80   finishes at CPU
+10064 Job 291  finishes at Disk 2
+10066 Job 699  arrives
+10069 Job 453  finishes at CPU
+10069 Job 453  finishes
+10074 Job 313  finishes at Disk 1
+10076 Job 700  arrives
+10080 Job 86   finishes at CPU
+10088 Job 701  arrives
+10093 Job 454  finishes at CPU
+10107 Job 702  arrives
+10107 Job 455  finishes at CPU
+10119 Job 703  arrives
+10124 Job 314  finishes at Disk 1
+10126 Job 119  finishes at Disk 2
+10126 Job 456  finishes at CPU
+10138 Job 704  arrives
+10141 Job 457  finishes at CPU
+10152 Job 705  arrives
+10154 Job 187  finishes at CPU
+10164 Job 706  arrives
+10172 Job 197  finishes at CPU
+10173 Job 315  finishes at Disk 1
+10183 Job 707  arrives
+10189 Job 458  finishes at CPU
+10189 Job 458  finishes
+10191 Job 122  finishes at Disk 2
+10198 Job 708  arrives
+10205 Job 459  finishes at CPU
+10214 Job 709  arrives
+10215 Job 317  finishes at Disk 1
+10222 Job 460  finishes at CPU
+10224 Job 710  arrives
+10235 Job 34   finishes at CPU
+10235 Job 34   finishes
+10242 Job 711  arrives
+10249 Job 461  finishes at CPU
+10253 Job 712  arrives
+10258 Job 301  finishes at Disk 2
+10265 Job 137  finishes at Disk 1
+10266 Job 462  finishes at CPU
+10268 Job 713  arrives
+10278 Job 188  finishes at CPU
+10283 Job 714  arrives
+10292 Job 463  finishes at CPU
+10294 Job 715  arrives
+10304 Job 716  arrives
+10306 Job 87   finishes at CPU
+10306 Job 87   finishes
+10316 Job 464  finishes at CPU
+10318 Job 319  finishes at Disk 1
+10321 Job 123  finishes at Disk 2
+10321 Job 717  arrives
+10326 Job 465  finishes at CPU
+10337 Job 718  arrives
+10342 Job 466  finishes at CPU
+10355 Job 719  arrives
+10358 Job 467  finishes at CPU
+10366 Job 720  arrives
+10371 Job 138  finishes at Disk 1
+10377 Job 189  finishes at CPU
+10382 Job 303  finishes at Disk 2
+10385 Job 721  arrives
+10395 Job 203  finishes at CPU
+10401 Job 722  arrives
+10406 Job 468  finishes at CPU
+10412 Job 723  arrives
+10416 Job 469  finishes at CPU
+10429 Job 323  finishes at Disk 1
+10430 Job 724  arrives
+10432 Job 470  finishes at CPU
+10438 Job 304  finishes at Disk 2
+10442 Job 471  finishes at CPU
+10446 Job 725  arrives
+10459 Job 191  finishes at CPU
+10459 Job 191  finishes
+10463 Job 726  arrives
+10474 Job 140  finishes at Disk 1
+10475 Job 36   finishes at CPU
+10482 Job 727  arrives
+10491 Job 472  finishes at CPU
+10492 Job 306  finishes at Disk 2
+10497 Job 728  arrives
+10508 Job 473  finishes at CPU
+10510 Job 729  arrives
+10522 Job 474  finishes at CPU
+10522 Job 474  finishes
+10524 Job 326  finishes at Disk 1
+10524 Job 730  arrives
+10537 Job 205  finishes at CPU
+10539 Job 731  arrives
+10543 Job 307  finishes at Disk 2
+10550 Job 732  arrives
+10556 Job 475  finishes at CPU
+10561 Job 733  arrives
+10567 Job 192  finishes at CPU
+10578 Job 734  arrives
+10580 Job 476  finishes at CPU
+10580 Job 476  finishes
+10582 Job 327  finishes at Disk 1
+10590 Job 735  arrives
+10599 Job 477  finishes at CPU
+10602 Job 309  finishes at Disk 2
+10607 Job 736  arrives
+10612 Job 478  finishes at CPU
+10623 Job 737  arrives
+10624 Job 207  finishes at CPU
+10633 Job 738  arrives
+10635 Job 132  finishes at Disk 1
+10639 Job 193  finishes at CPU
+10648 Job 739  arrives
+10649 Job 479  finishes at CPU
+10649 Job 479  finishes
+10662 Job 740  arrives
+10662 Job 480  finishes at CPU
+10665 Job 310  finishes at Disk 2
+10676 Job 481  finishes at CPU
+10677 Job 741  arrives
+10680 Job 328  finishes at Disk 1
+10688 Job 482  finishes at CPU
+10688 Job 742  arrives
+10698 Job 208  finishes at CPU
+10704 Job 743  arrives
+10708 Job 483  finishes at CPU
+10720 Job 744  arrives
+10724 Job 194  finishes at CPU
+10731 Job 311  finishes at Disk 2
+10734 Job 135  finishes at Disk 1
+10739 Job 745  arrives
+10740 Job 484  finishes at CPU
+10750 Job 485  finishes at CPU
+10753 Job 746  arrives
+10761 Job 209  finishes at CPU
+10766 Job 747  arrives
+10779 Job 332  finishes at Disk 1
+10779 Job 486  finishes at CPU
+10783 Job 748  arrives
+10789 Job 487  finishes at CPU
+10792 Job 312  finishes at Disk 2
+10801 Job 749  arrives
+10806 Job 198  finishes at CPU
+10816 Job 750  arrives
+10818 Job 488  finishes at CPU
+10829 Job 489  finishes at CPU
+10830 Job 334  finishes at Disk 1
+10834 Job 751  arrives
+10843 Job 490  finishes at CPU
+10851 Job 7    finishes at Disk 2
+10851 Job 752  arrives
+10853 Job 37   finishes at CPU
+10861 Job 753  arrives
+10870 Job 491  finishes at CPU
+10878 Job 144  finishes at Disk 1
+10880 Job 754  arrives
+10888 Job 492  finishes at CPU
+10888 Job 492  finishes
+10898 Job 199  finishes at CPU
+10898 Job 199  finishes
+10899 Job 755  arrives
+10908 Job 493  finishes at CPU
+10908 Job 493  finishes
+10910 Job 316  finishes at Disk 2
+10918 Job 336  finishes at Disk 1
+10918 Job 756  arrives
+10926 Job 213  finishes at CPU
+10926 Job 213  finishes
+10929 Job 757  arrives
+10936 Job 494  finishes at CPU
+10945 Job 758  arrives
+10951 Job 495  finishes at CPU
+10959 Job 759  arrives
+10966 Job 338  finishes at Disk 1
+10967 Job 200  finishes at CPU
+10972 Job 318  finishes at Disk 2
+10978 Job 760  arrives
+10981 Job 496  finishes at CPU
+10991 Job 761  arrives
+10991 Job 497  finishes at CPU
+11002 Job 762  arrives
+11009 Job 93   finishes at CPU
+11017 Job 763  arrives
+11020 Job 498  finishes at CPU
+11020 Job 498  finishes
+11022 Job 55   finishes at Disk 1
+11028 Job 764  arrives
+11036 Job 499  finishes at CPU
+11038 Job 129  finishes at Disk 2
+11042 Job 765  arrives
+11051 Job 202  finishes at CPU
+11053 Job 766  arrives
+11070 Job 500  finishes at CPU
+11070 Job 767  arrives
+11074 Job 341  finishes at Disk 1
+11086 Job 768  arrives
+11089 Job 217  finishes at CPU
+11098 Job 322  finishes at Disk 2
+11098 Job 769  arrives
+11107 Job 501  finishes at CPU
+11113 Job 770  arrives
+11117 Job 342  finishes at Disk 1
+11123 Job 502  finishes at CPU
+11123 Job 502  finishes
+11132 Job 771  arrives
+11138 Job 94   finishes at CPU
+11143 Job 772  arrives
+11151 Job 130  finishes at Disk 2
+11154 Job 503  finishes at CPU
+11154 Job 773  arrives
+11167 Job 774  arrives
+11170 Job 204  finishes at CPU
+11170 Job 204  finishes
+11171 Job 60   finishes at Disk 1
+11182 Job 775  arrives
+11183 Job 504  finishes at CPU
+11195 Job 505  finishes at CPU
+11200 Job 776  arrives
+11201 Job 324  finishes at Disk 2
+11205 Job 220  finishes at CPU
+11214 Job 777  arrives
+11217 Job 345  finishes at Disk 1
+11218 Job 506  finishes at CPU
+11230 Job 778  arrives
+11236 Job 507  finishes at CPU
+11246 Job 779  arrives
+11251 Job 39   finishes at CPU
+11263 Job 780  arrives
+11265 Job 90   finishes at CPU
+11265 Job 90   finishes
+11266 Job 325  finishes at Disk 2
+11266 Job 346  finishes at Disk 1
+11278 Job 508  finishes at CPU
+11280 Job 781  arrives
+11296 Job 509  finishes at CPU
+11299 Job 782  arrives
+11309 Job 57   finishes at Disk 1
+11313 Job 783  arrives
+11315 Job 510  finishes at CPU
+11325 Job 141  finishes at Disk 2
+11329 Job 784  arrives
+11330 Job 3    finishes at CPU
+11339 Job 785  arrives
+11347 Job 511  finishes at CPU
+11349 Job 786  arrives
+11350 Job 349  finishes at Disk 1
+11363 Job 206  finishes at CPU
+11364 Job 787  arrives
+11374 Job 788  arrives
+11382 Job 512  finishes at CPU
+11382 Job 512  finishes
+11389 Job 789  arrives
+11391 Job 329  finishes at Disk 2
+11395 Job 351  finishes at Disk 1
+11398 Job 222  finishes at CPU
+11403 Job 790  arrives
+11413 Job 513  finishes at CPU
+11422 Job 791  arrives
+11427 Job 514  finishes at CPU
+11434 Job 792  arrives
+11444 Job 515  finishes at CPU
+11444 Job 515  finishes
+11448 Job 143  finishes at Disk 2
+11448 Job 793  arrives
+11452 Job 352  finishes at Disk 1
+11459 Job 91   finishes at CPU
+11459 Job 794  arrives
+11474 Job 795  arrives
+11475 Job 224  finishes at CPU
+11486 Job 516  finishes at CPU
+11488 Job 796  arrives
+11499 Job 142  finishes at Disk 1
+11500 Job 797  arrives
+11501 Job 517  finishes at CPU
+11513 Job 518  finishes at CPU
+11515 Job 333  finishes at Disk 2
+11515 Job 798  arrives
+11532 Job 519  finishes at CPU
+11533 Job 799  arrives
+11544 Job 354  finishes at Disk 1
+11548 Job 228  finishes at CPU
+11548 Job 800  arrives
+11560 Job 520  finishes at CPU
+11567 Job 801  arrives
+11572 Job 210  finishes at CPU
+11575 Job 335  finishes at Disk 2
+11579 Job 802  arrives
+11583 Job 521  finishes at CPU
+11589 Job 803  arrives
+11594 Job 522  finishes at CPU
+11601 Job 356  finishes at Disk 1
+11602 Job 804  arrives
+11613 Job 523  finishes at CPU
+11618 Job 805  arrives
+11629 Job 95   finishes at CPU
+11633 Job 337  finishes at Disk 2
+11635 Job 806  arrives
+11641 Job 357  finishes at Disk 1
+11646 Job 524  finishes at CPU
+11648 Job 807  arrives
+11660 Job 808  arrives
+11665 Job 15   finishes at CPU
+11676 Job 809  arrives
+11679 Job 525  finishes at CPU
+11686 Job 810  arrives
+11691 Job 58   finishes at Disk 2
+11692 Job 358  finishes at Disk 1
+11693 Job 231  finishes at CPU
+11698 Job 811  arrives
+11711 Job 526  finishes at CPU
+11715 Job 812  arrives
+11721 Job 527  finishes at CPU
+11729 Job 813  arrives
+11739 Job 528  finishes at CPU
+11744 Job 814  arrives
+11748 Job 360  finishes at Disk 1
+11749 Job 214  finishes at CPU
+11750 Job 339  finishes at Disk 2
+11756 Job 815  arrives
+11766 Job 529  finishes at CPU
+11775 Job 816  arrives
+11783 Job 41   finishes at CPU
+11788 Job 817  arrives
+11794 Job 530  finishes at CPU
+11794 Job 530  finishes
+11800 Job 146  finishes at Disk 2
+11803 Job 818  arrives
+11807 Job 145  finishes at Disk 1
+11807 Job 531  finishes at CPU
+11819 Job 532  finishes at CPU
+11822 Job 819  arrives
+11835 Job 820  arrives
+11836 Job 215  finishes at CPU
+11836 Job 215  finishes
+11845 Job 821  arrives
+11851 Job 233  finishes at CPU
+11851 Job 233  finishes
+11858 Job 822  arrives
+11861 Job 343  finishes at Disk 2
+11861 Job 533  finishes at CPU
+11866 Job 362  finishes at Disk 1
+11874 Job 534  finishes at CPU
+11875 Job 823  arrives
+11889 Job 824  arrives
+11893 Job 535  finishes at CPU
+11903 Job 825  arrives
+11905 Job 100  finishes at CPU
+11910 Job 68   finishes at Disk 1
+11917 Job 536  finishes at CPU
+11919 Job 344  finishes at Disk 2
+11922 Job 826  arrives
+11934 Job 218  finishes at CPU
+11938 Job 827  arrives
+11948 Job 828  arrives
+11949 Job 537  finishes at CPU
+11958 Job 829  arrives
+11965 Job 365  finishes at Disk 1
+11965 Job 538  finishes at CPU
+11971 Job 830  arrives
+11980 Job 539  finishes at CPU
+11981 Job 347  finishes at Disk 2
+11983 Job 831  arrives
+11994 Job 97   finishes at CPU
+11995 Job 832  arrives
+12011 Job 219  finishes at CPU
+12014 Job 833  arrives
+12021 Job 366  finishes at Disk 1
+12026 Job 540  finishes at CPU
+12026 Job 540  finishes
+12032 Job 834  arrives
+12040 Job 541  finishes at CPU
+12044 Job 348  finishes at Disk 2
+12044 Job 835  arrives
+12052 Job 542  finishes at CPU
+12052 Job 542  finishes
+12060 Job 836  arrives
+12063 Job 543  finishes at CPU
+12075 Job 837  arrives
+12077 Job 103  finishes at CPU
+12077 Job 103  finishes
+12078 Job 156  finishes at Disk 1
+12092 Job 221  finishes at CPU
+12092 Job 221  finishes
+12093 Job 838  arrives
+12100 Job 149  finishes at Disk 2
+12109 Job 544  finishes at CPU
+12111 Job 839  arrives
+12119 Job 158  finishes at Disk 1
+12126 Job 545  finishes at CPU
+12127 Job 840  arrives
+12143 Job 546  finishes at CPU
+12144 Job 841  arrives
+12154 Job 239  finishes at CPU
+12158 Job 350  finishes at Disk 2
+12163 Job 842  arrives
+12167 Job 547  finishes at CPU
+12167 Job 547  finishes
+12168 Job 370  finishes at Disk 1
+12177 Job 843  arrives
+12181 Job 223  finishes at CPU
+12189 Job 844  arrives
+12192 Job 548  finishes at CPU
+12207 Job 845  arrives
+12209 Job 549  finishes at CPU
+12210 Job 150  finishes at Disk 2
+12222 Job 550  finishes at CPU
+12224 Job 846  arrives
+12225 Job 372  finishes at Disk 1
+12234 Job 847  arrives
+12237 Job 43   finishes at CPU
+12250 Job 92   finishes at CPU
+12253 Job 848  arrives
+12266 Job 551  finishes at CPU
+12268 Job 353  finishes at Disk 2
+12268 Job 849  arrives
+12269 Job 374  finishes at Disk 1
+12278 Job 552  finishes at CPU
+12278 Job 552  finishes
+12279 Job 850  arrives
+12288 Job 553  finishes at CPU
+12291 Job 851  arrives
+12299 Job 45   finishes at CPU
+12309 Job 63   finishes at Disk 1
+12309 Job 852  arrives
+12318 Job 554  finishes at CPU
+12321 Job 853  arrives
+12322 Job 355  finishes at Disk 2
+12332 Job 854  arrives
+12334 Job 226  finishes at CPU
+12345 Job 555  finishes at CPU
+12349 Job 855  arrives
+12355 Job 375  finishes at Disk 1
+12361 Job 556  finishes at CPU
+12361 Job 856  arrives
+12376 Job 152  finishes at Disk 2
+12378 Job 857  arrives
+12380 Job 557  finishes at CPU
+12392 Job 858  arrives
+12394 Job 246  finishes at CPU
+12409 Job 859  arrives
+12411 Job 558  finishes at CPU
+12413 Job 379  finishes at Disk 1
+12425 Job 559  finishes at CPU
+12427 Job 860  arrives
+12435 Job 230  finishes at CPU
+12438 Job 62   finishes at Disk 2
+12440 Job 861  arrives
+12445 Job 560  finishes at CPU
+12458 Job 66   finishes at Disk 1
+12459 Job 862  arrives
+12459 Job 107  finishes at CPU
+12473 Job 863  arrives
+12476 Job 561  finishes at CPU
+12491 Job 864  arrives
+12495 Job 562  finishes at CPU
+12495 Job 562  finishes
+12506 Job 359  finishes at Disk 2
+12508 Job 563  finishes at CPU
+12509 Job 865  arrives
+12517 Job 163  finishes at Disk 1
+12523 Job 866  arrives
+12527 Job 6    finishes at CPU
+12537 Job 247  finishes at CPU
+12541 Job 867  arrives
+12552 Job 868  arrives
+12556 Job 564  finishes at CPU
+12556 Job 564  finishes
+12568 Job 869  arrives
+12568 Job 565  finishes at CPU
+12570 Job 64   finishes at Disk 2
+12571 Job 383  finishes at Disk 1
+12578 Job 870  arrives
+12585 Job 566  finishes at CPU
+12585 Job 566  finishes
+12588 Job 871  arrives
+12600 Job 567  finishes at CPU
+12600 Job 872  arrives
+12610 Job 873  arrives
+12618 Job 232  finishes at CPU
+12624 Job 153  finishes at Disk 1
+12628 Job 874  arrives
+12628 Job 101  finishes at CPU
+12638 Job 361  finishes at Disk 2
+12641 Job 875  arrives
+12641 Job 568  finishes at CPU
+12651 Job 876  arrives
+12660 Job 569  finishes at CPU
+12660 Job 569  finishes
+12661 Job 877  arrives
+12667 Job 385  finishes at Disk 1
+12673 Job 878  arrives
+12674 Job 570  finishes at CPU
+12684 Job 251  finishes at CPU
+12688 Job 363  finishes at Disk 2
+12690 Job 879  arrives
+12694 Job 235  finishes at CPU
+12705 Job 880  arrives
+12706 Job 571  finishes at CPU
+12716 Job 881  arrives
+12717 Job 386  finishes at Disk 1
+12724 Job 572  finishes at CPU
+12734 Job 882  arrives
+12738 Job 573  finishes at CPU
+12746 Job 364  finishes at Disk 2
+12746 Job 883  arrives
+12756 Job 253  finishes at CPU
+12756 Job 253  finishes
+12764 Job 884  arrives
+12766 Job 574  finishes at CPU
+12776 Job 166  finishes at Disk 1
+12777 Job 575  finishes at CPU
+12778 Job 885  arrives
+12794 Job 886  arrives
+12796 Job 237  finishes at CPU
+12799 Job 147  finishes at Disk 2
+12811 Job 887  arrives
+12813 Job 576  finishes at CPU
+12821 Job 888  arrives
+12827 Job 577  finishes at CPU
+12831 Job 389  finishes at Disk 1
+12835 Job 889  arrives
+12845 Job 254  finishes at CPU
+12845 Job 254  finishes
+12849 Job 367  finishes at Disk 2
+12849 Job 890  arrives
+12861 Job 891  arrives
+12863 Job 578  finishes at CPU
+12863 Job 578  finishes
+12874 Job 892  arrives
+12875 Job 579  finishes at CPU
+12881 Job 167  finishes at Disk 1
+12888 Job 238  finishes at CPU
+12890 Job 893  arrives
+12904 Job 894  arrives
+12905 Job 580  finishes at CPU
+12915 Job 895  arrives
+12916 Job 368  finishes at Disk 2
+12924 Job 581  finishes at CPU
+12927 Job 896  arrives
+12934 Job 155  finishes at Disk 1
+12937 Job 897  arrives
+12938 Job 255  finishes at CPU
+12947 Job 898  arrives
+12951 Job 582  finishes at CPU
+12964 Job 899  arrives
+12969 Job 240  finishes at CPU
+12974 Job 393  finishes at Disk 1
+12977 Job 900  arrives
+12978 Job 13   finishes at Disk 2
+12988 Job 583  finishes at CPU
+12991 Job 901  arrives
+12999 Job 584  finishes at CPU
+13002 Job 902  arrives
+13011 Job 585  finishes at CPU
+13020 Job 903  arrives
+13022 Job 258  finishes at CPU
+13022 Job 258  finishes
+13025 Job 394  finishes at Disk 1
+13036 Job 904  arrives
+13037 Job 586  finishes at CPU
+13040 Job 373  finishes at Disk 2
+13047 Job 241  finishes at CPU
+13049 Job 905  arrives
+13060 Job 587  finishes at CPU
+13061 Job 906  arrives
+13075 Job 588  finishes at CPU
+13076 Job 907  arrives
+13081 Job 65   finishes at Disk 1
+13086 Job 260  finishes at CPU
+13091 Job 908  arrives
+13098 Job 69   finishes at Disk 2
+13104 Job 589  finishes at CPU
+13105 Job 909  arrives
+13114 Job 242  finishes at CPU
+13114 Job 242  finishes
+13121 Job 910  arrives
+13124 Job 396  finishes at Disk 1
+13133 Job 590  finishes at CPU
+13133 Job 911  arrives
+13147 Job 591  finishes at CPU
+13147 Job 912  arrives
+13147 Job 591  finishes
+13158 Job 376  finishes at Disk 2
+13158 Job 913  arrives
+13159 Job 592  finishes at CPU
+13169 Job 261  finishes at CPU
+13169 Job 261  finishes
+13173 Job 398  finishes at Disk 1
+13173 Job 914  arrives
+13184 Job 915  arrives
+13188 Job 593  finishes at CPU
+13198 Job 916  arrives
+13207 Job 594  finishes at CPU
+13213 Job 377  finishes at Disk 2
+13217 Job 917  arrives
+13221 Job 76   finishes at Disk 1
+13223 Job 243  finishes at CPU
+13230 Job 918  arrives
+13236 Job 595  finishes at CPU
+13240 Job 919  arrives
+13249 Job 596  finishes at CPU
+13253 Job 920  arrives
+13266 Job 263  finishes at CPU
+13268 Job 921  arrives
+13269 Job 401  finishes at Disk 1
+13281 Job 162  finishes at Disk 2
+13281 Job 922  arrives
+13284 Job 597  finishes at CPU
+13294 Job 923  arrives
+13298 Job 598  finishes at CPU
+13310 Job 248  finishes at CPU
+13312 Job 924  arrives
+13322 Job 174  finishes at Disk 1
+13323 Job 925  arrives
+13324 Job 599  finishes at CPU
+13324 Job 599  finishes
+13331 Job 380  finishes at Disk 2
+13335 Job 600  finishes at CPU
+13339 Job 926  arrives
+13349 Job 927  arrives
+13354 Job 265  finishes at CPU
+13354 Job 265  finishes
+13361 Job 928  arrives
+13364 Job 404  finishes at Disk 1
+13364 Job 601  finishes at CPU
+13379 Job 929  arrives
+13383 Job 602  finishes at CPU
+13389 Job 930  arrives
+13393 Job 381  finishes at Disk 2
+13397 Job 250  finishes at CPU
+13405 Job 931  arrives
+13408 Job 603  finishes at CPU
+13418 Job 932  arrives
+13422 Job 67   finishes at Disk 1
+13422 Job 117  finishes at CPU
+13429 Job 933  arrives
+13433 Job 604  finishes at CPU
+13442 Job 934  arrives
+13452 Job 605  finishes at CPU
+13453 Job 935  arrives
+13456 Job 382  finishes at Disk 2
+13468 Job 606  finishes at CPU
+13468 Job 936  arrives
+13476 Job 406  finishes at Disk 1
+13478 Job 937  arrives
+13484 Job 268  finishes at CPU
+13494 Job 938  arrives
+13497 Job 607  finishes at CPU
+13506 Job 939  arrives
+13511 Job 44   finishes at CPU
+13516 Job 164  finishes at Disk 2
+13519 Job 940  arrives
+13527 Job 608  finishes at CPU
+13529 Job 165  finishes at Disk 1
+13538 Job 941  arrives
+13543 Job 609  finishes at CPU
+13549 Job 942  arrives
+13562 Job 112  finishes at CPU
+13568 Job 943  arrives
+13580 Job 384  finishes at Disk 2
+13580 Job 610  finishes at CPU
+13583 Job 409  finishes at Disk 1
+13585 Job 944  arrives
+13598 Job 8    finishes at CPU
+13598 Job 8    finishes
+13599 Job 945  arrives
+13610 Job 946  arrives
+13613 Job 611  finishes at CPU
+13622 Job 947  arrives
+13627 Job 411  finishes at Disk 1
+13631 Job 612  finishes at CPU
+13633 Job 387  finishes at Disk 2
+13634 Job 948  arrives
+13646 Job 613  finishes at CPU
+13646 Job 949  arrives
+13664 Job 950  arrives
+13665 Job 118  finishes at CPU
+13668 Job 70   finishes at Disk 1
+13677 Job 614  finishes at CPU
+13679 Job 951  arrives
+13690 Job 952  arrives
+13693 Job 615  finishes at CPU
+13698 Job 154  finishes at Disk 2
+13706 Job 257  finishes at CPU
+13707 Job 953  arrives
+13715 Job 413  finishes at Disk 1
+13716 Job 616  finishes at CPU
+13726 Job 954  arrives
+13726 Job 617  finishes at CPU
+13738 Job 273  finishes at CPU
+13741 Job 955  arrives
+13756 Job 618  finishes at CPU
+13758 Job 956  arrives
+13763 Job 390  finishes at Disk 2
+13763 Job 415  finishes at Disk 1
+13773 Job 619  finishes at CPU
+13775 Job 957  arrives
+13786 Job 17   finishes at CPU
+13794 Job 958  arrives
+13804 Job 620  finishes at CPU
+13805 Job 959  arrives
+13814 Job 391  finishes at Disk 2
+13818 Job 78   finishes at Disk 1
+13822 Job 120  finishes at CPU
+13822 Job 960  arrives
+13835 Job 621  finishes at CPU
+13839 Job 961  arrives
+13847 Job 622  finishes at CPU
+13853 Job 962  arrives
+13860 Job 623  finishes at CPU
+13869 Job 963  arrives
+13870 Job 624  finishes at CPU
+13875 Job 392  finishes at Disk 2
+13875 Job 172  finishes at Disk 1
+13880 Job 114  finishes at CPU
+13883 Job 964  arrives
+13894 Job 259  finishes at CPU
+13895 Job 965  arrives
+13904 Job 625  finishes at CPU
+13905 Job 966  arrives
+13919 Job 626  finishes at CPU
+13919 Job 626  finishes
+13920 Job 967  arrives
+13929 Job 420  finishes at Disk 1
+13931 Job 627  finishes at CPU
+13933 Job 968  arrives
+13940 Job 169  finishes at Disk 2
+13943 Job 969  arrives
+13944 Job 278  finishes at CPU
+13959 Job 970  arrives
+13961 Job 628  finishes at CPU
+13971 Job 971  arrives
+13976 Job 421  finishes at Disk 1
+13978 Job 48   finishes at CPU
+13978 Job 48   finishes
+13981 Job 972  arrives
+13990 Job 629  finishes at CPU
+13990 Job 629  finishes
+13997 Job 395  finishes at Disk 2
+13999 Job 973  arrives
+14003 Job 630  finishes at CPU
+14003 Job 630  finishes
+14011 Job 974  arrives
+14013 Job 279  finishes at CPU
+14021 Job 173  finishes at Disk 1
+14025 Job 631  finishes at CPU
+14029 Job 975  arrives
+14035 Job 632  finishes at CPU
+14040 Job 976  arrives
+14054 Job 633  finishes at CPU
+14056 Job 977  arrives
+14059 Job 171  finishes at Disk 2
+14064 Job 424  finishes at Disk 1
+14067 Job 115  finishes at CPU
+14075 Job 978  arrives
+14078 Job 634  finishes at CPU
+14089 Job 979  arrives
+14095 Job 116  finishes at CPU
+14101 Job 980  arrives
+14104 Job 428  finishes at Disk 1
+14114 Job 635  finishes at CPU
+14119 Job 981  arrives
+14122 Job 399  finishes at Disk 2
+14131 Job 636  finishes at CPU
+14136 Job 982  arrives
+14149 Job 264  finishes at CPU
+14153 Job 175  finishes at Disk 1
+14153 Job 983  arrives
+14160 Job 51   finishes at CPU
+14171 Job 984  arrives
+14178 Job 637  finishes at CPU
+14182 Job 400  finishes at Disk 2
+14188 Job 985  arrives
+14191 Job 638  finishes at CPU
+14201 Job 639  finishes at CPU
+14202 Job 986  arrives
+14209 Job 430  finishes at Disk 1
+14211 Job 266  finishes at CPU
+14211 Job 266  finishes
+14220 Job 987  arrives
+14229 Job 283  finishes at CPU
+14238 Job 161  finishes at Disk 2
+14239 Job 988  arrives
+14245 Job 640  finishes at CPU
+14250 Job 431  finishes at Disk 1
+14256 Job 989  arrives
+14259 Job 641  finishes at CPU
+14266 Job 990  arrives
+14273 Job 642  finishes at CPU
+14285 Job 991  arrives
+14285 Job 643  finishes at CPU
+14290 Job 5    finishes at Disk 1
+14295 Job 992  arrives
+14297 Job 403  finishes at Disk 2
+14300 Job 47   finishes at CPU
+14307 Job 993  arrives
+14318 Job 644  finishes at CPU
+14325 Job 994  arrives
+14333 Job 110  finishes at CPU
+14342 Job 995  arrives
+14344 Job 645  finishes at CPU
+14349 Job 435  finishes at Disk 1
+14349 Job 405  finishes at Disk 2
+14356 Job 646  finishes at CPU
+14359 Job 996  arrives
+14369 Job 647  finishes at CPU
+14369 Job 647  finishes
+14374 Job 997  arrives
+14386 Job 288  finishes at CPU
+14390 Job 998  arrives
+14393 Job 436  finishes at Disk 1
+14397 Job 648  finishes at CPU
+14409 Job 999  arrives
+14412 Job 407  finishes at Disk 2
+14413 Job 270  finishes at CPU
+14426 Job 1000 arrives
+14429 Job 649  finishes at CPU
+14438 Job 1001 arrives
+14441 Job 650  finishes at CPU
+14450 Job 1002 arrives
+14451 Job 79   finishes at Disk 1
+14458 Job 289  finishes at CPU
+14458 Job 289  finishes
+14467 Job 1003 arrives
+14469 Job 408  finishes at Disk 2
+14472 Job 651  finishes at CPU
+14480 Job 1004 arrives
+14488 Job 652  finishes at CPU
+14498 Job 1005 arrives
+14506 Job 441  finishes at Disk 1
+14507 Job 653  finishes at CPU
+14508 Job 1006 arrives
+14518 Job 1007 arrives
+14521 Job 271  finishes at CPU
+14521 Job 271  finishes
+14528 Job 410  finishes at Disk 2
+14537 Job 1008 arrives
+14540 Job 19   finishes at CPU
+14551 Job 1009 arrives
+14552 Job 654  finishes at CPU
+14555 Job 442  finishes at Disk 1
+14569 Job 655  finishes at CPU
+14570 Job 1010 arrives
+14581 Job 1011 arrives
+14583 Job 656  finishes at CPU
+14593 Job 412  finishes at Disk 2
+14594 Job 1012 arrives
+14597 Job 293  finishes at CPU
+14597 Job 293  finishes
+14609 Job 443  finishes at Disk 1
+14609 Job 1013 arrives
+14611 Job 272  finishes at CPU
+14611 Job 272  finishes
+14620 Job 1014 arrives
+14627 Job 657  finishes at CPU
+14637 Job 1015 arrives
+14637 Job 658  finishes at CPU
+14647 Job 659  finishes at CPU
+14651 Job 444  finishes at Disk 1
+14652 Job 1016 arrives
+14659 Job 180  finishes at Disk 2
+14663 Job 660  finishes at CPU
+14665 Job 1017 arrives
+14677 Job 1018 arrives
+14679 Job 295  finishes at CPU
+14691 Job 661  finishes at CPU
+14691 Job 661  finishes
+14695 Job 1019 arrives
+14704 Job 662  finishes at CPU
+14707 Job 1020 arrives
+14708 Job 181  finishes at Disk 1
+14711 Job 416  finishes at Disk 2
+14718 Job 274  finishes at CPU
+14718 Job 274  finishes
+14724 Job 1021 arrives
+14733 Job 663  finishes at CPU
+14740 Job 1022 arrives
+14749 Job 298  finishes at CPU
+14756 Job 1023 arrives
+14757 Job 84   finishes at Disk 1
+14763 Job 417  finishes at Disk 2
+14764 Job 664  finishes at CPU
+14772 Job 1024 arrives
+14775 Job 665  finishes at CPU
+14783 Job 1025 arrives
+14786 Job 666  finishes at CPU
+14795 Job 1026 arrives
+14798 Job 54   finishes at CPU
+14805 Job 1027 arrives
+14808 Job 77   finishes at Disk 1
+14808 Job 275  finishes at CPU
+14816 Job 419  finishes at Disk 2
+14818 Job 667  finishes at CPU
+14819 Job 1028 arrives
+14828 Job 668  finishes at CPU
+14829 Job 1029 arrives
+14845 Job 669  finishes at CPU
+14848 Job 1030 arrives
+14863 Job 451  finishes at Disk 1
+14863 Job 300  finishes at CPU
+14866 Job 1031 arrives
+14874 Job 670  finishes at CPU
+14884 Job 182  finishes at Disk 2
+14884 Job 1032 arrives
+14884 Job 49   finishes at CPU
+14901 Job 671  finishes at CPU
+14902 Job 1033 arrives
+14905 Job 452  finishes at Disk 1
+14918 Job 672  finishes at CPU
+14918 Job 1034 arrives
+14932 Job 1035 arrives
+14934 Job 302  finishes at CPU
+14945 Job 423  finishes at Disk 2
+14950 Job 86   finishes at Disk 1
+14951 Job 1036 arrives
+14953 Job 673  finishes at CPU
+14965 Job 1037 arrives
+14968 Job 674  finishes at CPU
+14982 Job 1038 arrives
+14982 Job 675  finishes at CPU
+14990 Job 455  finishes at Disk 1
+14994 Job 1039 arrives
+14999 Job 676  finishes at CPU
+15004 Job 426  finishes at Disk 2
+15007 Job 1040 arrives
+15016 Job 280  finishes at CPU
+15025 Job 1041 arrives
+15030 Job 187  finishes at Disk 1
+15035 Job 131  finishes at CPU
+15041 Job 1042 arrives
+15051 Job 677  finishes at CPU
+15054 Job 1043 arrives
+15064 Job 678  finishes at CPU
+15064 Job 678  finishes
+15067 Job 185  finishes at Disk 2
+15072 Job 459  finishes at Disk 1
+15073 Job 1044 arrives
+15077 Job 679  finishes at CPU
+15077 Job 679  finishes
+15084 Job 1045 arrives
+15093 Job 305  finishes at CPU
+15103 Job 1046 arrives
+15103 Job 680  finishes at CPU
+15103 Job 680  finishes
+15116 Job 281  finishes at CPU
+15120 Job 460  finishes at Disk 1
+15122 Job 1047 arrives
+15126 Job 681  finishes at CPU
+15133 Job 429  finishes at Disk 2
+15138 Job 1048 arrives
+15145 Job 682  finishes at CPU
+15153 Job 1049 arrives
+15157 Job 124  finishes at CPU
+15157 Job 124  finishes
+15164 Job 462  finishes at Disk 1
+15167 Job 1050 arrives
+15167 Job 683  finishes at CPU
+15180 Job 1051 arrives
+15184 Job 684  finishes at CPU
+15196 Job 282  finishes at CPU
+15197 Job 432  finishes at Disk 2
+15198 Job 1052 arrives
+15210 Job 1053 arrives
+15214 Job 685  finishes at CPU
+15218 Job 188  finishes at Disk 1
+15220 Job 1054 arrives
+15233 Job 686  finishes at CPU
+15235 Job 1055 arrives
+15243 Job 20   finishes at CPU
+15243 Job 20   finishes
+15246 Job 1056 arrives
+15249 Job 82   finishes at Disk 2
+15253 Job 687  finishes at CPU
+15261 Job 1057 arrives
+15272 Job 688  finishes at CPU
+15275 Job 464  finishes at Disk 1
+15280 Job 1058 arrives
+15290 Job 21   finishes at CPU
+15291 Job 1059 arrives
+15303 Job 689  finishes at CPU
+15303 Job 689  finishes
+15305 Job 1060 arrives
+15315 Job 308  finishes at CPU
+15316 Job 433  finishes at Disk 2
+15320 Job 1061 arrives
+15321 Job 467  finishes at Disk 1
+15325 Job 690  finishes at CPU
+15337 Job 1062 arrives
+15338 Job 691  finishes at CPU
+15338 Job 691  finishes
+15355 Job 1063 arrives
+15357 Job 692  finishes at CPU
+15367 Job 287  finishes at CPU
+15370 Job 438  finishes at Disk 2
+15373 Job 1064 arrives
+15375 Job 189  finishes at Disk 1
+15377 Job 127  finishes at CPU
+15385 Job 1065 arrives
+15394 Job 693  finishes at CPU
+15394 Job 693  finishes
+15403 Job 1066 arrives
+15413 Job 694  finishes at CPU
+15418 Job 1067 arrives
+15425 Job 695  finishes at CPU
+15426 Job 439  finishes at Disk 2
+15434 Job 469  finishes at Disk 1
+15435 Job 1068 arrives
+15440 Job 290  finishes at CPU
+15451 Job 696  finishes at CPU
+15453 Job 1069 arrives
+15463 Job 133  finishes at CPU
+15471 Job 1070 arrives
+15479 Job 697  finishes at CPU
+15489 Job 1071 arrives
+15490 Job 698  finishes at CPU
+15491 Job 83   finishes at Disk 2
+15491 Job 470  finishes at Disk 1
+15507 Job 1072 arrives
+15507 Job 291  finishes at CPU
+15517 Job 699  finishes at CPU
+15517 Job 699  finishes
+15523 Job 1073 arrives
+15535 Job 313  finishes at CPU
+15539 Job 1074 arrives
+15546 Job 700  finishes at CPU
+15548 Job 16   finishes at Disk 2
+15548 Job 36   finishes at Disk 1
+15551 Job 1075 arrives
+15558 Job 701  finishes at CPU
+15558 Job 701  finishes
+15570 Job 1076 arrives
+15575 Job 702  finishes at CPU
+15582 Job 1077 arrives
+15588 Job 703  finishes at CPU
+15591 Job 473  finishes at Disk 1
+15593 Job 1078 arrives
+15602 Job 445  finishes at Disk 2
+15603 Job 314  finishes at CPU
+15611 Job 1079 arrives
+15613 Job 119  finishes at CPU
+15622 Job 1080 arrives
+15629 Job 704  finishes at CPU
+15629 Job 704  finishes
+15641 Job 192  finishes at Disk 1
+15641 Job 1081 arrives
+15648 Job 705  finishes at CPU
+15653 Job 1082 arrives
+15663 Job 706  finishes at CPU
+15663 Job 706  finishes
+15667 Job 446  finishes at Disk 2
+15669 Job 1083 arrives
+15673 Job 315  finishes at CPU
+15679 Job 1084 arrives
+15690 Job 707  finishes at CPU
+15690 Job 707  finishes
+15692 Job 1085 arrives
+15699 Job 477  finishes at Disk 1
+15703 Job 122  finishes at CPU
+15710 Job 1086 arrives
+15717 Job 708  finishes at CPU
+15719 Job 447  finishes at Disk 2
+15728 Job 709  finishes at CPU
+15729 Job 1087 arrives
+15741 Job 1088 arrives
+15744 Job 193  finishes at Disk 1
+15747 Job 317  finishes at CPU
+15754 Job 1089 arrives
+15757 Job 710  finishes at CPU
+15765 Job 1090 arrives
+15769 Job 711  finishes at CPU
+15779 Job 1091 arrives
+15779 Job 712  finishes at CPU
+15787 Job 449  finishes at Disk 2
+15791 Job 480  finishes at Disk 1
+15793 Job 1092 arrives
+15795 Job 301  finishes at CPU
+15805 Job 137  finishes at CPU
+15810 Job 1093 arrives
+15820 Job 713  finishes at CPU
+15820 Job 713  finishes
+15827 Job 1094 arrives
+15831 Job 714  finishes at CPU
+15843 Job 1095 arrives
+15847 Job 715  finishes at CPU
+15848 Job 482  finishes at Disk 1
+15854 Job 80   finishes at Disk 2
+15859 Job 1096 arrives
+15861 Job 716  finishes at CPU
+15861 Job 716  finishes
+15876 Job 319  finishes at CPU
+15877 Job 1097 arrives
+15894 Job 123  finishes at CPU
+15895 Job 1098 arrives
+15907 Job 208  finishes at Disk 1
+15908 Job 1099 arrives
+15913 Job 717  finishes at CPU
+15913 Job 717  finishes
+15918 Job 454  finishes at Disk 2
+15927 Job 1100 arrives
+15929 Job 718  finishes at CPU
+15945 Job 1101 arrives
+15946 Job 719  finishes at CPU
+15946 Job 719  finishes
+15956 Job 194  finishes at Disk 1
+15962 Job 1102 arrives
+15962 Job 720  finishes at CPU
+15962 Job 720  finishes
+15974 Job 456  finishes at Disk 2
+15974 Job 1103 arrives
+15974 Job 138  finishes at CPU
+15974 Job 138  finishes
+15989 Job 1104 arrives
+15992 Job 303  finishes at CPU
+16005 Job 1105 arrives
+16005 Job 721  finishes at CPU
+16009 Job 485  finishes at Disk 1
+16016 Job 722  finishes at CPU
+16024 Job 1106 arrives
+16026 Job 723  finishes at CPU
+16036 Job 1107 arrives
+16041 Job 457  finishes at Disk 2
+16044 Job 323  finishes at CPU
+16049 Job 486  finishes at Disk 1
+16053 Job 1108 arrives
+16060 Job 724  finishes at CPU
+16065 Job 1109 arrives
+16076 Job 304  finishes at CPU
+16079 Job 1110 arrives
+16088 Job 725  finishes at CPU
+16094 Job 198  finishes at Disk 1
+16098 Job 1111 arrives
+16101 Job 726  finishes at CPU
+16110 Job 197  finishes at Disk 2
+16115 Job 1112 arrives
+16118 Job 140  finishes at CPU
+16131 Job 727  finishes at CPU
+16133 Job 1113 arrives
+16141 Job 306  finishes at CPU
+16144 Job 490  finishes at Disk 1
+16144 Job 1114 arrives
+16155 Job 1115 arrives
+16158 Job 728  finishes at CPU
+16160 Job 461  finishes at Disk 2
+16167 Job 1116 arrives
+16176 Job 729  finishes at CPU
+16183 Job 1117 arrives
+16186 Job 326  finishes at CPU
+16190 Job 491  finishes at Disk 1
+16198 Job 1118 arrives
+16205 Job 730  finishes at CPU
+16215 Job 463  finishes at Disk 2
+16215 Job 1119 arrives
+16223 Job 731  finishes at CPU
+16233 Job 1120 arrives
+16233 Job 307  finishes at CPU
+16238 Job 494  finishes at Disk 1
+16243 Job 732  finishes at CPU
+16245 Job 1121 arrives
+16255 Job 1122 arrives
+16256 Job 733  finishes at CPU
+16272 Job 734  finishes at CPU
+16274 Job 1123 arrives
+16277 Job 465  finishes at Disk 2
+16279 Job 200  finishes at Disk 1
+16288 Job 1124 arrives
+16291 Job 327  finishes at CPU
+16291 Job 327  finishes
+16302 Job 1125 arrives
+16307 Job 735  finishes at CPU
+16313 Job 1126 arrives
+16317 Job 309  finishes at CPU
+16317 Job 309  finishes
+16330 Job 1127 arrives
+16330 Job 736  finishes at CPU
+16335 Job 466  finishes at Disk 2
+16337 Job 497  finishes at Disk 1
+16340 Job 737  finishes at CPU
+16344 Job 1128 arrives
+16350 Job 738  finishes at CPU
+16357 Job 1129 arrives
+16366 Job 132  finishes at CPU
+16372 Job 1130 arrives
+16384 Job 739  finishes at CPU
+16384 Job 739  finishes
+16387 Job 1131 arrives
+16392 Job 93   finishes at Disk 1
+16398 Job 740  finishes at CPU
+16399 Job 1132 arrives
+16401 Job 203  finishes at Disk 2
+16408 Job 310  finishes at CPU
+16410 Job 1133 arrives
+16422 Job 1134 arrives
+16423 Job 741  finishes at CPU
+16437 Job 328  finishes at CPU
+16439 Job 1135 arrives
+16441 Job 499  finishes at Disk 1
+16450 Job 742  finishes at CPU
+16456 Job 1136 arrives
+16460 Job 468  finishes at Disk 2
+16465 Job 743  finishes at CPU
+16465 Job 743  finishes
+16468 Job 1137 arrives
+16481 Job 217  finishes at Disk 1
+16481 Job 1138 arrives
+16483 Job 744  finishes at CPU
+16483 Job 744  finishes
+16495 Job 1139 arrives
+16500 Job 311  finishes at CPU
+16510 Job 1140 arrives
+16512 Job 135  finishes at CPU
+16516 Job 471  finishes at Disk 2
+16522 Job 1141 arrives
+16523 Job 745  finishes at CPU
+16533 Job 1142 arrives
+16540 Job 94   finishes at Disk 1
+16541 Job 746  finishes at CPU
+16551 Job 1143 arrives
+16557 Job 747  finishes at CPU
+16562 Job 1144 arrives
+16574 Job 332  finishes at CPU
+16574 Job 1145 arrives
+16577 Job 472  finishes at Disk 2
+16587 Job 1146 arrives
+16592 Job 504  finishes at Disk 1
+16592 Job 748  finishes at CPU
+16598 Job 1147 arrives
+16603 Job 312  finishes at CPU
+16610 Job 1148 arrives
+16617 Job 749  finishes at CPU
+16617 Job 749  finishes
+16620 Job 1149 arrives
+16629 Job 750  finishes at CPU
+16635 Job 1150 arrives
+16640 Job 334  finishes at CPU
+16640 Job 334  finishes
+16642 Job 205  finishes at Disk 2
+16644 Job 505  finishes at Disk 1
+16652 Job 1151 arrives
+16656 Job 751  finishes at CPU
+16656 Job 751  finishes
+16671 Job 1152 arrives
+16674 Job 7    finishes at CPU
+16684 Job 1153 arrives
+16690 Job 506  finishes at Disk 1
+16692 Job 752  finishes at CPU
+16694 Job 475  finishes at Disk 2
+16700 Job 1154 arrives
+16705 Job 753  finishes at CPU
+16716 Job 1155 arrives
+16718 Job 144  finishes at CPU
+16718 Job 144  finishes
+16730 Job 1156 arrives
+16733 Job 39   finishes at Disk 1
+16736 Job 754  finishes at CPU
+16741 Job 1157 arrives
+16749 Job 478  finishes at Disk 2
+16750 Job 755  finishes at CPU
+16751 Job 1158 arrives
+16767 Job 1159 arrives
+16769 Job 316  finishes at CPU
+16769 Job 316  finishes
+16780 Job 1160 arrives
+16782 Job 336  finishes at CPU
+16784 Job 510  finishes at Disk 1
+16798 Job 1161 arrives
+16798 Job 756  finishes at CPU
+16808 Job 1162 arrives
+16809 Job 207  finishes at Disk 2
+16813 Job 757  finishes at CPU
+16827 Job 3    finishes at Disk 1
+16827 Job 1163 arrives
+16830 Job 758  finishes at CPU
+16837 Job 1164 arrives
+16842 Job 759  finishes at CPU
+16855 Job 1165 arrives
+16856 Job 338  finishes at CPU
+16856 Job 338  finishes
+16864 Job 481  finishes at Disk 2
+16866 Job 1166 arrives
+16875 Job 318  finishes at CPU
+16875 Job 318  finishes
+16877 Job 1167 arrives
+16878 Job 206  finishes at Disk 1
+16891 Job 760  finishes at CPU
+16891 Job 1168 arrives
+16891 Job 760  finishes
+16905 Job 1169 arrives
+16910 Job 761  finishes at CPU
+16910 Job 761  finishes
+16918 Job 1170 arrives
+16920 Job 483  finishes at Disk 2
+16929 Job 762  finishes at CPU
+16935 Job 513  finishes at Disk 1
+16936 Job 1171 arrives
+16946 Job 763  finishes at CPU
+16946 Job 1172 arrives
+16960 Job 1173 arrives
+16962 Job 55   finishes at CPU
+16976 Job 1174 arrives
+16978 Job 764  finishes at CPU
+16986 Job 484  finishes at Disk 2
+16989 Job 91   finishes at Disk 1
+16989 Job 129  finishes at CPU
+16992 Job 1175 arrives
+17006 Job 765  finishes at CPU
+17006 Job 1176 arrives
+17022 Job 766  finishes at CPU
+17022 Job 1177 arrives
+17035 Job 1178 arrives
+17036 Job 209  finishes at Disk 2
+17039 Job 224  finishes at Disk 1
+17041 Job 767  finishes at CPU
+17041 Job 767  finishes
+17051 Job 1179 arrives
+17052 Job 341  finishes at CPU
+17062 Job 1180 arrives
+17069 Job 768  finishes at CPU
+17069 Job 768  finishes
+17075 Job 1181 arrives
+17081 Job 322  finishes at CPU
+17087 Job 517  finishes at Disk 1
+17090 Job 487  finishes at Disk 2
+17092 Job 1182 arrives
+17092 Job 769  finishes at CPU
+17107 Job 770  finishes at CPU
+17111 Job 1183 arrives
+17126 Job 342  finishes at CPU
+17127 Job 1184 arrives
+17133 Job 519  finishes at Disk 1
+17141 Job 1185 arrives
+17143 Job 771  finishes at CPU
+17153 Job 772  finishes at CPU
+17153 Job 772  finishes
+17155 Job 488  finishes at Disk 2
+17157 Job 1186 arrives
+17169 Job 1187 arrives
+17171 Job 130  finishes at CPU
+17180 Job 228  finishes at Disk 1
+17181 Job 1188 arrives
+17188 Job 773  finishes at CPU
+17194 Job 1189 arrives
+17200 Job 774  finishes at CPU
+17204 Job 1190 arrives
+17218 Job 489  finishes at Disk 2
+17219 Job 60   finishes at CPU
+17219 Job 1191 arrives
+17219 Job 60   finishes
+17225 Job 521  finishes at Disk 1
+17237 Job 775  finishes at CPU
+17237 Job 1192 arrives
+17256 Job 776  finishes at CPU
+17256 Job 1193 arrives
+17267 Job 1194 arrives
+17271 Job 324  finishes at CPU
+17272 Job 523  finishes at Disk 1
+17275 Job 37   finishes at Disk 2
+17281 Job 1195 arrives
+17284 Job 777  finishes at CPU
+17293 Job 1196 arrives
+17300 Job 345  finishes at CPU
+17300 Job 345  finishes
+17312 Job 1197 arrives
+17317 Job 778  finishes at CPU
+17326 Job 95   finishes at Disk 1
+17330 Job 1198 arrives
+17335 Job 495  finishes at Disk 2
+17336 Job 779  finishes at CPU
+17346 Job 1199 arrives
+17346 Job 780  finishes at CPU
+17360 Job 1200 arrives
+17361 Job 325  finishes at CPU
+17370 Job 1201 arrives
+17377 Job 525  finishes at Disk 1
+17378 Job 346  finishes at CPU
+17383 Job 1202 arrives
+17392 Job 496  finishes at Disk 2
+17395 Job 1203 arrives
+17397 Job 781  finishes at CPU
+17407 Job 1204 arrives
+17408 Job 782  finishes at CPU
+17418 Job 57   finishes at CPU
+17424 Job 1205 arrives
+17430 Job 783  finishes at CPU
+17430 Job 783  finishes
+17431 Job 526  finishes at Disk 1
+17443 Job 1206 arrives
+17446 Job 141  finishes at CPU
+17454 Job 202  finishes at Disk 2
+17455 Job 1207 arrives
+17464 Job 784  finishes at CPU
+17466 Job 1208 arrives
+17476 Job 1209 arrives
+17477 Job 785  finishes at CPU
+17478 Job 528  finishes at Disk 1
+17489 Job 786  finishes at CPU
+17489 Job 786  finishes
+17491 Job 1210 arrives
+17501 Job 1211 arrives
+17503 Job 349  finishes at CPU
+17503 Job 349  finishes
+17514 Job 787  finishes at CPU
+17518 Job 1212 arrives
+17521 Job 500  finishes at Disk 2
+17533 Job 788  finishes at CPU
+17534 Job 214  finishes at Disk 1
+17534 Job 1213 arrives
+17544 Job 1214 arrives
+17550 Job 789  finishes at CPU
+17560 Job 1215 arrives
+17560 Job 329  finishes at CPU
+17571 Job 351  finishes at CPU
+17573 Job 1216 arrives
+17581 Job 501  finishes at Disk 2
+17583 Job 1217 arrives
+17588 Job 790  finishes at CPU
+17593 Job 531  finishes at Disk 1
+17593 Job 1218 arrives
+17598 Job 791  finishes at CPU
+17598 Job 791  finishes
+17612 Job 1219 arrives
+17617 Job 792  finishes at CPU
+17617 Job 792  finishes
+17627 Job 1220 arrives
+17630 Job 143  finishes at CPU
+17630 Job 143  finishes
+17641 Job 1221 arrives
+17642 Job 503  finishes at Disk 2
+17649 Job 793  finishes at CPU
+17650 Job 534  finishes at Disk 1
+17652 Job 1222 arrives
+17664 Job 1223 arrives
+17667 Job 352  finishes at CPU
+17680 Job 1224 arrives
+17683 Job 794  finishes at CPU
+17694 Job 795  finishes at CPU
+17696 Job 1225 arrives
+17702 Job 535  finishes at Disk 1
+17704 Job 220  finishes at Disk 2
+17709 Job 1226 arrives
+17710 Job 796  finishes at CPU
+17710 Job 796  finishes
+17723 Job 1227 arrives
+17728 Job 142  finishes at CPU
+17739 Job 797  finishes at CPU
+17742 Job 1228 arrives
+17753 Job 333  finishes at CPU
+17755 Job 536  finishes at Disk 1
+17757 Job 1229 arrives
+17768 Job 507  finishes at Disk 2
+17768 Job 798  finishes at CPU
+17774 Job 1230 arrives
+17778 Job 799  finishes at CPU
+17778 Job 799  finishes
+17787 Job 1231 arrives
+17795 Job 354  finishes at CPU
+17795 Job 354  finishes
+17801 Job 218  finishes at Disk 1
+17802 Job 1232 arrives
+17809 Job 800  finishes at CPU
+17817 Job 1233 arrives
+17823 Job 508  finishes at Disk 2
+17825 Job 801  finishes at CPU
+17830 Job 1234 arrives
+17836 Job 335  finishes at CPU
+17845 Job 1235 arrives
+17848 Job 538  finishes at Disk 1
+17853 Job 802  finishes at CPU
+17856 Job 1236 arrives
+17865 Job 803  finishes at CPU
+17875 Job 1237 arrives
+17877 Job 356  finishes at CPU
+17888 Job 509  finishes at Disk 2
+17893 Job 539  finishes at Disk 1
+17894 Job 1238 arrives
+17894 Job 804  finishes at CPU
+17904 Job 1239 arrives
+17911 Job 805  finishes at CPU
+17923 Job 1240 arrives
+17928 Job 337  finishes at CPU
+17939 Job 1241 arrives
+17945 Job 806  finishes at CPU
+17945 Job 806  finishes
+17950 Job 511  finishes at Disk 2
+17951 Job 541  finishes at Disk 1
+17952 Job 1242 arrives
+17956 Job 357  finishes at CPU
+17963 Job 1243 arrives
+17968 Job 807  finishes at CPU
+17968 Job 807  finishes
+17976 Job 1244 arrives
+17982 Job 808  finishes at CPU
+17991 Job 1245 arrives
+17998 Job 809  finishes at CPU
+18004 Job 1246 arrives
+18009 Job 545  finishes at Disk 1
+18011 Job 222  finishes at Disk 2
+18017 Job 810  finishes at CPU
+18017 Job 810  finishes
+18019 Job 1247 arrives
+18030 Job 1248 arrives
+18031 Job 58   finishes at CPU
+18045 Job 1249 arrives
+18045 Job 358  finishes at CPU
+18057 Job 811  finishes at CPU
+18060 Job 1250 arrives
+18065 Job 514  finishes at Disk 2
+18067 Job 546  finishes at Disk 1
+18073 Job 812  finishes at CPU
+18077 Job 1251 arrives
+18090 Job 813  finishes at CPU
+18095 Job 1252 arrives
+18108 Job 814  finishes at CPU
+18110 Job 1253 arrives
+18118 Job 223  finishes at Disk 1
+18123 Job 360  finishes at CPU
+18128 Job 516  finishes at Disk 2
+18128 Job 1254 arrives
+18139 Job 339  finishes at CPU
+18142 Job 1255 arrives
+18151 Job 815  finishes at CPU
+18161 Job 1256 arrives
+18162 Job 548  finishes at Disk 1
+18165 Job 816  finishes at CPU
+18174 Job 1257 arrives
+18176 Job 817  finishes at CPU
+18176 Job 817  finishes
+18190 Job 146  finishes at CPU
+18192 Job 1258 arrives
+18195 Job 518  finishes at Disk 2
+18203 Job 818  finishes at CPU
+18207 Job 1259 arrives
+18211 Job 43   finishes at Disk 1
+18214 Job 145  finishes at CPU
+18221 Job 1260 arrives
+18229 Job 819  finishes at CPU
+18234 Job 1261 arrives
+18247 Job 820  finishes at CPU
+18247 Job 820  finishes
+18248 Job 520  finishes at Disk 2
+18251 Job 1262 arrives
+18259 Job 551  finishes at Disk 1
+18261 Job 1263 arrives
+18263 Job 821  finishes at CPU
+18263 Job 821  finishes
+18275 Job 1264 arrives
+18277 Job 822  finishes at CPU
+18291 Job 1265 arrives
+18293 Job 343  finishes at CPU
+18298 Job 210  finishes at Disk 2
+18302 Job 1266 arrives
+18311 Job 362  finishes at CPU
+18315 Job 553  finishes at Disk 1
+18317 Job 1267 arrives
+18321 Job 823  finishes at CPU
+18331 Job 824  finishes at CPU
+18335 Job 1268 arrives
+18348 Job 825  finishes at CPU
+18348 Job 1269 arrives
+18350 Job 522  finishes at Disk 2
+18359 Job 1270 arrives
+18361 Job 554  finishes at Disk 1
+18362 Job 68   finishes at CPU
+18373 Job 1271 arrives
+18377 Job 344  finishes at CPU
+18387 Job 1272 arrives
+18389 Job 826  finishes at CPU
+18402 Job 524  finishes at Disk 2
+18402 Job 1273 arrives
+18406 Job 827  finishes at CPU
+18414 Job 555  finishes at Disk 1
+18416 Job 1274 arrives
+18421 Job 828  finishes at CPU
+18421 Job 828  finishes
+18433 Job 829  finishes at CPU
+18435 Job 1275 arrives
+18449 Job 365  finishes at CPU
+18449 Job 1276 arrives
+18459 Job 1277 arrives
+18465 Job 556  finishes at Disk 1
+18466 Job 830  finishes at CPU
+18469 Job 1278 arrives
+18470 Job 15   finishes at Disk 2
+18476 Job 347  finishes at CPU
+18486 Job 831  finishes at CPU
+18487 Job 1279 arrives
+18497 Job 1280 arrives
+18498 Job 832  finishes at CPU
+18513 Job 1281 arrives
+18514 Job 833  finishes at CPU
+18518 Job 558  finishes at Disk 1
+18527 Job 1282 arrives
+18533 Job 366  finishes at CPU
+18537 Job 231  finishes at Disk 2
+18543 Job 1283 arrives
+18551 Job 834  finishes at CPU
+18558 Job 1284 arrives
+18562 Job 230  finishes at Disk 1
+18569 Job 348  finishes at CPU
+18569 Job 1285 arrives
+18582 Job 1286 arrives
+18587 Job 835  finishes at CPU
+18592 Job 527  finishes at Disk 2
+18596 Job 1287 arrives
+18604 Job 836  finishes at CPU
+18609 Job 1288 arrives
+18614 Job 107  finishes at Disk 1
+18620 Job 837  finishes at CPU
+18621 Job 1289 arrives
+18632 Job 156  finishes at CPU
+18639 Job 1290 arrives
+18645 Job 838  finishes at CPU
+18653 Job 1291 arrives
+18654 Job 529  finishes at Disk 2
+18658 Job 149  finishes at CPU
+18663 Job 6    finishes at Disk 1
+18669 Job 839  finishes at CPU
+18670 Job 1292 arrives
+18682 Job 158  finishes at CPU
+18684 Job 1293 arrives
+18698 Job 840  finishes at CPU
+18700 Job 1294 arrives
+18707 Job 41   finishes at Disk 2
+18715 Job 841  finishes at CPU
+18717 Job 1295 arrives
+18722 Job 247  finishes at Disk 1
+18728 Job 1296 arrives
+18730 Job 350  finishes at CPU
+18740 Job 1297 arrives
+18746 Job 842  finishes at CPU
+18753 Job 1298 arrives
+18759 Job 370  finishes at CPU
+18766 Job 1299 arrives
+18768 Job 532  finishes at Disk 2
+18770 Job 567  finishes at Disk 1
+18776 Job 843  finishes at CPU
+18785 Job 1300 arrives
+18787 Job 844  finishes at CPU
+18802 Job 1301 arrives
+18804 Job 845  finishes at CPU
+18816 Job 101  finishes at Disk 1
+18819 Job 1302 arrives
+18819 Job 150  finishes at CPU
+18819 Job 150  finishes
+18824 Job 533  finishes at Disk 2
+18833 Job 1303 arrives
+18838 Job 846  finishes at CPU
+18843 Job 1304 arrives
+18851 Job 372  finishes at CPU
+18856 Job 1305 arrives
+18864 Job 570  finishes at Disk 1
+18868 Job 847  finishes at CPU
+18874 Job 1306 arrives
+18879 Job 100  finishes at Disk 2
+18879 Job 848  finishes at CPU
+18892 Job 1307 arrives
+18898 Job 353  finishes at CPU
+18906 Job 1308 arrives
+18913 Job 849  finishes at CPU
+18916 Job 251  finishes at Disk 1
+18916 Job 1309 arrives
+18929 Job 1310 arrives
+18930 Job 374  finishes at CPU
+18941 Job 1311 arrives
+18944 Job 537  finishes at Disk 2
+18946 Job 850  finishes at CPU
+18946 Job 850  finishes
+18952 Job 1312 arrives
+18956 Job 851  finishes at CPU
+18960 Job 572  finishes at Disk 1
+18964 Job 1313 arrives
+18974 Job 63   finishes at CPU
+18974 Job 1314 arrives
+18984 Job 852  finishes at CPU
+18985 Job 1315 arrives
+18997 Job 853  finishes at CPU
+18997 Job 853  finishes
+18998 Job 1316 arrives
+19007 Job 573  finishes at Disk 1
+19008 Job 97   finishes at Disk 2
+19008 Job 1317 arrives
+19009 Job 355  finishes at CPU
+19020 Job 854  finishes at CPU
+19021 Job 1318 arrives
+19032 Job 855  finishes at CPU
+19036 Job 1319 arrives
+19051 Job 375  finishes at CPU
+19053 Job 1320 arrives
+19055 Job 575  finishes at Disk 1
+19063 Job 856  finishes at CPU
+19063 Job 856  finishes
+19065 Job 1321 arrives
+19066 Job 219  finishes at Disk 2
+19077 Job 152  finishes at CPU
+19080 Job 1322 arrives
+19090 Job 857  finishes at CPU
+19094 Job 1323 arrives
+19105 Job 577  finishes at Disk 1
+19108 Job 858  finishes at CPU
+19113 Job 1324 arrives
+19119 Job 859  finishes at CPU
+19127 Job 1325 arrives
+19133 Job 543  finishes at Disk 2
+19133 Job 379  finishes at CPU
+19146 Job 1326 arrives
+19149 Job 860  finishes at CPU
+19149 Job 860  finishes
+19155 Job 579  finishes at Disk 1
+19165 Job 1327 arrives
+19167 Job 62   finishes at CPU
+19179 Job 1328 arrives
+19179 Job 861  finishes at CPU
+19179 Job 861  finishes
+19191 Job 66   finishes at CPU
+19195 Job 1329 arrives
+19197 Job 544  finishes at Disk 2
+19205 Job 238  finishes at Disk 1
+19206 Job 862  finishes at CPU
+19210 Job 1330 arrives
+19225 Job 863  finishes at CPU
+19225 Job 863  finishes
+19229 Job 1331 arrives
+19243 Job 864  finishes at CPU
+19245 Job 255  finishes at Disk 1
+19246 Job 1332 arrives
+19257 Job 239  finishes at Disk 2
+19257 Job 359  finishes at CPU
+19263 Job 1333 arrives
+19267 Job 865  finishes at CPU
+19280 Job 1334 arrives
+19281 Job 163  finishes at CPU
+19287 Job 582  finishes at Disk 1
+19292 Job 866  finishes at CPU
+19292 Job 866  finishes
+19298 Job 1335 arrives
+19308 Job 867  finishes at CPU
+19310 Job 549  finishes at Disk 2
+19315 Job 1336 arrives
+19318 Job 868  finishes at CPU
+19333 Job 869  finishes at CPU
+19334 Job 584  finishes at Disk 1
+19334 Job 1337 arrives
+19347 Job 1338 arrives
+19348 Job 64   finishes at CPU
+19358 Job 1339 arrives
+19366 Job 383  finishes at CPU
+19374 Job 550  finishes at Disk 2
+19376 Job 1340 arrives
+19380 Job 586  finishes at Disk 1
+19380 Job 870  finishes at CPU
+19388 Job 1341 arrives
+19394 Job 871  finishes at CPU
+19394 Job 871  finishes
+19404 Job 1342 arrives
+19405 Job 872  finishes at CPU
+19415 Job 1343 arrives
+19417 Job 873  finishes at CPU
+19417 Job 873  finishes
+19423 Job 587  finishes at Disk 1
+19429 Job 1344 arrives
+19432 Job 92   finishes at Disk 2
+19433 Job 153  finishes at CPU
+19444 Job 874  finishes at CPU
+19444 Job 874  finishes
+19446 Job 1345 arrives
+19456 Job 361  finishes at CPU
+19462 Job 1346 arrives
+19467 Job 875  finishes at CPU
+19474 Job 1347 arrives
+19479 Job 260  finishes at Disk 1
+19480 Job 876  finishes at CPU
+19487 Job 1348 arrives
+19488 Job 45   finishes at Disk 2
+19494 Job 877  finishes at CPU
+19502 Job 1349 arrives
+19512 Job 385  finishes at CPU
+19512 Job 385  finishes
+19518 Job 1350 arrives
+19529 Job 878  finishes at CPU
+19531 Job 590  finishes at Disk 1
+19535 Job 1351 arrives
+19540 Job 363  finishes at CPU
+19541 Job 226  finishes at Disk 2
+19548 Job 1352 arrives
+19551 Job 879  finishes at CPU
+19551 Job 879  finishes
+19561 Job 1353 arrives
+19569 Job 880  finishes at CPU
+19569 Job 880  finishes
+19575 Job 592  finishes at Disk 1
+19580 Job 1354 arrives
+19583 Job 881  finishes at CPU
+19583 Job 881  finishes
+19592 Job 557  finishes at Disk 2
+19595 Job 1355 arrives
+19600 Job 386  finishes at CPU
+19606 Job 1356 arrives
+19615 Job 594  finishes at Disk 1
+19615 Job 882  finishes at CPU
+19624 Job 1357 arrives
+19626 Job 364  finishes at CPU
+19638 Job 883  finishes at CPU
+19643 Job 1358 arrives
+19650 Job 884  finishes at CPU
+19653 Job 246  finishes at Disk 2
+19656 Job 1359 arrives
+19661 Job 595  finishes at Disk 1
+19668 Job 1360 arrives
+19669 Job 166  finishes at CPU
+19669 Job 166  finishes
+19679 Job 1361 arrives
+19679 Job 885  finishes at CPU
+19692 Job 1362 arrives
+19694 Job 886  finishes at CPU
+19704 Job 1363 arrives
+19705 Job 559  finishes at Disk 2
+19711 Job 147  finishes at CPU
+19711 Job 147  finishes
+19716 Job 1364 arrives
+19719 Job 596  finishes at Disk 1
+19727 Job 887  finishes at CPU
+19732 Job 1365 arrives
+19746 Job 888  finishes at CPU
+19746 Job 1366 arrives
+19757 Job 1367 arrives
+19762 Job 389  finishes at CPU
+19767 Job 598  finishes at Disk 1
+19774 Job 560  finishes at Disk 2
+19774 Job 1368 arrives
+19779 Job 889  finishes at CPU
+19789 Job 367  finishes at CPU
+19791 Job 1369 arrives
+19802 Job 890  finishes at CPU
+19806 Job 1370 arrives
+19821 Job 891  finishes at CPU
+19822 Job 600  finishes at Disk 1
+19824 Job 1371 arrives
+19831 Job 561  finishes at Disk 2
+19836 Job 892  finishes at CPU
+19840 Job 1372 arrives
+19846 Job 167  finishes at CPU
+19846 Job 167  finishes
+19857 Job 1373 arrives
+19857 Job 893  finishes at CPU
+19869 Job 894  finishes at CPU
+19871 Job 1374 arrives
+19877 Job 601  finishes at Disk 1
+19883 Job 895  finishes at CPU
+19884 Job 1375 arrives
+19893 Job 563  finishes at Disk 2
+19896 Job 368  finishes at CPU
+19901 Job 1376 arrives
+19906 Job 896  finishes at CPU
+19913 Job 1377 arrives
+19925 Job 155  finishes at CPU
+19927 Job 1378 arrives
+19930 Job 250  finishes at Disk 1
+19942 Job 897  finishes at CPU
+19942 Job 897  finishes
+19946 Job 1379 arrives
+19957 Job 565  finishes at Disk 2
+19957 Job 898  finishes at CPU
+19957 Job 1380 arrives
+19971 Job 1381 arrives
+19976 Job 899  finishes at CPU
+19978 Job 117  finishes at Disk 1
+19985 Job 1382 arrives
+19989 Job 393  finishes at CPU
+20000 Simulation finishes
