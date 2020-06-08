@@ -21,6 +21,10 @@ The main file “main.c” contains the simulation, handler functions and the qu
 
 ![Readme](https://user-images.githubusercontent.com/28942562/84033213-8321a500-a966-11ea-82ac-61c1b43d12f2.png)
 
+---------------------------------------------------------------------------------------------------------------------------
+
+Here is my test run for this project:
+For my testing in LINUX, I tested the program 4 times with different data. My method is that I change one data or one group of data so I can compare the following test with the precious test. There are 2 constant data in my testing. They include the INIT_TIME as 0 and the QUIT_PROB as 20. I use my first test as a default test. In the 2nd trial, I increase the SEED by 1 to check the difference between the result. In the 3rd trial, I increase the FIN_TIME to compare with the 2nd trial. And in the last test, I increase all other data by 5 to compare with the 3rd trial. 
 
 [RUN.pdf](https://github.com/Kylist/C-Projects-in-my-Senior/files/4746053/RUN.pdf)
 
