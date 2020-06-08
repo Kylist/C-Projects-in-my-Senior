@@ -1,0 +1,4 @@
+# Anh Tran
+Project 2# tutor: Jiacheng Shang
+myshell: myshell.c myshell.h
+gcc -Wall myshell.c -o myshell
